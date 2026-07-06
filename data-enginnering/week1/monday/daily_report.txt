@@ -1,0 +1,40 @@
+Daily Report - Monday Practice
+
+Today I worked on:
+
+I worked on a Python project using a list of student dictionaries.
+I created multiple functions to analyze student data such as attendance, homework scores, and performance.
+I implemented logic to calculate totals, averages, and group students by city and course.
+I also built functions to filter students based on attendance and performance.
+Additionally, I created a ranking system to find the top 3 students and sorted students by homework score.
+
+Completed tasks:
+
+Total students count function
+Average attendance calculation
+Average homework score calculation
+Count students by city
+Count students by course
+Identify low attendance students
+Identify strong students
+Identify students who need support
+Top 3 students ranking system
+Sorting students by homework score
+
+Not completed yet:
+
+No major tasks are incomplete, but the code can still be improved for reusability and cleaner structure.
+
+Biggest difficulty:
+
+The hardest part was implementing the ranking logic (finding top students without using built-in sorting functions).
+
+How I tried to solve it:
+
+I used a manual comparison approach by selecting the highest student repeatedly and building a new sorted list step by step.
+
+What I need to improve for Tuesday:
+
+I need to improve code optimization and avoid repeating similar logic in different functions.
+I should try to reuse functions and make the code more modular and cleaner.
+I also want to learn how to simplify ranking and grouping logic using built-in Python tools.
