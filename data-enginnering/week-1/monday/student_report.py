@@ -188,7 +188,7 @@ else:
         print()
 
 
-    total_students(students)
+        total_students(students)
     average_attendance(students)
     average_homework(students)
     count_by_city(students)

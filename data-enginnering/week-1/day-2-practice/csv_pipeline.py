@@ -407,7 +407,7 @@ def get_score(student):
 
 
 
-def create_summary_report(raw,cleaned,issues):
+def   create_summary_report(raw,cleaned,issues):
 
     report = []
 

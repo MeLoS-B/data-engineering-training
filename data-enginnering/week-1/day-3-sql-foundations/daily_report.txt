@@ -1,0 +1,26 @@
+Daily Report - Day 3 SQL Foundations
+
+Today I worked on:
+- Practicing SQL queries and creating database tables.
+- Working with filtering, sorting, and business-related queries.
+
+Completed tasks:
+- Created and inserted data into SQL tables.
+- Completed SQL practice queries from SELECT to business summary queries.
+- Created a custom business table and pipeline thinking document.
+- Created project documentation files.
+
+Not completed yet:
+- I still need more practice with advanced SQL queries and larger datasets.
+
+The hardest part was:
+- Understanding how to design business queries that provide useful information for managers.
+
+How I tried to solve it:
+- I reviewed examples, tested queries, and changed them to match real business situations.
+
+What I understood better today:
+- How databases store information and how SQL queries can be used to analyze business data.
+
+What I need to improve for the next session:
+- Practice more complex SQL operations, joins, and data analysis techniques.
