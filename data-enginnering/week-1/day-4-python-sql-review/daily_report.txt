@@ -1,0 +1,44 @@
+
+
+
+
+---
+
+## `daily_report.txt`
+
+```txt
+Daily Report - Day 4 Practice
+
+Today I worked on:
+- Practicing order analysis using Python and SQL.
+- Calculating total amounts and filtering order data.
+
+Python tasks completed:
+- Calculated total_amount for orders.
+- Found the highest value order.
+- Filtered pending and cancelled orders.
+- Calculated completed revenue.
+
+SQL tasks completed:
+- Created and tested queries in SQLiteOnline.com.
+- Used WHERE, ORDER BY, and SUM to analyze orders.
+- Filtered completed orders and calculated revenue.
+
+Comparison tasks completed:
+- Compared how Python and SQL solve the same problems.
+- Understood the difference between loops in Python and queries in SQL.
+
+What I understood better today:
+- I understood how the same business problem can be solved using different tools.
+- I understood that SQL is useful for database analysis while Python is useful for more flexible programming logic.
+
+What was difficult:
+- Understanding how to translate Python logic into SQL queries.
+- Working with calculated values like total_amount.
+
+What I need to practice more:
+- More SQL aggregation and subqueries.
+- Combining Python with databases.
+
+Did I use AI? If yes, how did I use it?
+- Yes, I used AI to explain concepts, review my solutions, and help me understand the differences between Python and SQL logic.
