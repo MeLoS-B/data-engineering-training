@@ -1,0 +1,22 @@
+# Individual Reflection - Melos Beqiri
+
+## My role in the group:
+My role was to work on the Python data analysis part of the project. I helped process the CSV data, perform calculations, and generate useful reports from the dataset.
+
+## What I worked on:
+I worked on reading CSV files using Python, cleaning and analyzing the data, counting different values, calculating totals, and creating reports based on the given requirements. I also debugged errors and improved the code structure.
+
+## What I understood better today:
+I understood better how data pipelines work and how raw data can be transformed into useful information. I improved my understanding of file handling, dictionaries, loops, conditions, and data processing in Python.
+
+## What was difficult for me:
+The difficult part was handling CSV data correctly and avoiding errors when converting data types. I also had some challenges understanding how to structure the analysis code in a clean and reusable way.
+
+## What I can explain live:
+I can explain how I read data from CSV files, how I cleaned and transformed the data, how dictionaries were used for counting, and how calculations like total revenue were created.
+
+## What I still need to practice:
+I still need to practice writing cleaner Python code, working with larger datasets, using libraries like Pandas, and improving my understanding of more advanced data engineering concepts.
+
+## Did I use AI? If yes, how did I use it?
+Yes, I used AI as a learning assistant. I used it to understand errors, get explanations about Python concepts, improve my approach to solving tasks, and review my code. I still wrote and understood the final implementation myself.

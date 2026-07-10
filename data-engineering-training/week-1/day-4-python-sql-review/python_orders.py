@@ -2,10 +2,10 @@
 
 orders = [
     {
-        "order_id": 1,
         "customer_name": "Arta",
         "city": "Vushtrri",
         "product": "Laptop",
+        "order_id": 1,
         "category": "Electronics",
         "quantity": 1,
         "price": 700,

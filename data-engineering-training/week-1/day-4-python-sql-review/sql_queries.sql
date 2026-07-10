@@ -128,13 +128,13 @@ LIMIT 3;
 
 --Query 19 Show customer_name, product, quantity, price, and total_amount.
 
-SELECT customer_name,product,quantity,price,quantity * price AS total_amount FROM orders
+SELECT customer_name,product,quantity,price,quantity * price AS total_amount FROM orders;
 
 
 --Query 20 Show only completed orders with total_amount.
 
 SELECT quantity * price as total_amount FROM orders
-WHERE status = 'completed'
+WHERE status = 'completed';
 
 
 --Query 21 Show completed orders with total_amount sorted from highest to lowest.

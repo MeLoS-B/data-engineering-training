@@ -1,0 +1,16 @@
+order_id,customer_name,city,product,category,quantity,price,status,order_date
+1,Arta,Vushtrri,Laptop,Electronics,1,700,completed,2026-07-01
+2,Blerim,Prishtina,Mouse,Accessories,2,25,completed,2026-07-02
+3,Learta,Peja,Printer,Office,1,180,pending,2026-07-02
+4,Dren,Gjilan,Keyboard,Accessories,3,40,completed,2026-07-03
+5,Sara,Prizren,Monitor,Electronics,2,220,cancelled,2026-07-03
+6,Albin,Ferizaj,Office Chair,Office,1,150,completed,2026-07-04
+7,Era,Vushtrri,USB Drive,Accessories,5,18,pending,2026-07-04
+8,Luan,Prishtina,Desktop PC,Electronics,1,950,completed,2026-07-05
+9,Blerta,Peja,Notebook,Office,10,6,completed,2026-07-05
+10,Valon,Gjilan,Headphones,Accessories,2,85,cancelled,2026-07-06
+11,Rina,Prizren,Tablet,Electronics,1,430,pending,2026-07-07
+12,Arber,Ferizaj,Paper Pack,Office,8,12,completed,2026-07-08
+13,Flaka,Vushtrri,Webcam,Electronics,2,95,pending,2026-07-08
+14,Gent,Prishtina,Stapler,Office,4,15,completed,2026-07-09
+15,Kreshnik,Peja,Power Bank,Accessories,3,35,cancelled,2026-07-100

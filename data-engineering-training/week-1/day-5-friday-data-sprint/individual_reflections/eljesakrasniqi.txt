@@ -1,0 +1,18 @@
+
+- My role in the group:
+My role in the group was to work on analyzing the orders dataset using SQL. I focused on creating the database structure, inserting the data, and writing queries to answer business questions.
+
+- What I worked on:
+I created the orders table and inserted the dataset. I wrote SQL queries to display all orders, filter orders by status, calculate total_amount using quantity * price, calculate completed revenue, count orders by status, city, and category, and find the most valuable orders based on total amount.
+
+- What I understood better today:
+Today I understood better how SQL can be used to transform raw data into useful business insights. I learned how filtering with WHERE, grouping with GROUP BY, counting with COUNT(), calculating values with SUM(), and sorting results with ORDER BY help analyze data.
+
+- What was difficult for me:
+The difficult part was understanding the logic behind some queries, especially calculating revenue correctly by including only completed orders and excluding pending or cancelled orders. Understanding how GROUP BY works was also challenging at first.
+
+- What I can explain live:
+I can explain how I created the database, how I inserted the orders data, and how my SQL queries answer business questions. I can explain how I calculated completed revenue and how I found the most valuable order using ORDER BY and LIMIT.
+
+- What I still need to practice:
+I still need to practice writing more advanced SQL queries, especially using JOIN, subqueries, and more complex aggregations. I also want to improve my ability to analyze datasets and find deeper business insights.

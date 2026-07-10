@@ -170,7 +170,7 @@ for student in students:
     else:
         count_student_in_course[student["course"]] = 1
 
-for course,count in student_count_city.items():
+for course,count in count_student_in_course.items():
     print(f"{course}:{count}")
 
 
