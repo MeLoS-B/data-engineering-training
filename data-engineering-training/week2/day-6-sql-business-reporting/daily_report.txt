@@ -1,0 +1,73 @@
+Daily Report - Day 6 Practice
+
+Today I worked on:
+
+* Creating a small business database with customers, products, and orders tables.
+* Writing SQL queries to analyze sales, revenue, customers, and products.
+* Turning SQL results into business reports and explanations.
+
+SQL setup completed:
+
+* Created the customers, products, and orders tables.
+* Added sample data using INSERT statements.
+* Connected tables using primary keys and foreign keys.
+
+Aggregation tasks completed:
+
+* Used COUNT() to calculate the number of orders.
+* Used SUM() to calculate completed revenue.
+* Used calculations like quantity * price to find total amounts.
+* Used aggregation functions to analyze business data.
+
+GROUP BY tasks completed:
+
+* Grouped revenue by product.
+* Grouped revenue by category.
+* Grouped orders by city.
+* Grouped orders by customer.
+* Used HAVING to filter grouped results.
+
+JOIN tasks completed:
+
+* Used INNER JOIN to connect orders with customers and products.
+* Combined data from multiple tables to create business reports.
+* Created reports with customer names, cities, products, and revenue information.
+
+Business report completed:
+
+* Created a business report explaining important results from SQL queries.
+* Identified the highest revenue product, category, customer, and city.
+* Explained which orders should not count as real revenue.
+
+What I understood better today:
+
+* SQL is not only about writing queries but also about understanding the meaning behind the data.
+* JOIN helps combine information from different tables.
+* GROUP BY helps analyze data by categories, customers, or locations.
+* Business reports can help managers make decisions.
+
+What was difficult:
+
+* Understanding when to use WHERE, GROUP BY, and HAVING.
+* Thinking about the business meaning behind SQL results instead of only getting the output.
+* Writing more complex queries with multiple JOIN operations.
+
+What I need to practice more:
+
+* More advanced JOIN queries.
+* Subqueries and nested calculations.
+* Writing more business-focused SQL reports.
+* Improving my speed when creating queries.
+
+Did I use AI? If yes, how did I use it?
+
+* Yes, I used AI as a learning assistant to understand SQL concepts, debug errors, and improve my explanations.
+* I used AI to check my query logic and understand why certain SQL clauses were needed.
+
+What can I explain live without help:
+
+* Creating tables and inserting data.
+* Using SELECT, WHERE, ORDER BY, LIMIT.
+* Using aggregation functions like COUNT and SUM.
+* Explaining the difference between WHERE, GROUP BY, HAVING, and JOIN.
+* Explaining how SQL results can answer business questions.
