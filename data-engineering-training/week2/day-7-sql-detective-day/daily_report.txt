@@ -1,0 +1,56 @@
+Daily Report - Day 7 Practice
+
+Today I worked on:
+
+* Debugging broken SQL queries and understanding why they failed.
+* Writing corrected queries using SELECT, JOIN, WHERE, GROUP BY, and aggregate functions.
+* Creating validation queries to verify business data.
+
+Broken queries I fixed:
+
+* Fixed incorrect JOIN syntax.
+* Fixed missing JOIN conditions between related tables.
+* Fixed incorrect filtering and grouping problems.
+* Fixed queries that calculated incorrect business results.
+
+Validation queries I completed:
+
+* Counted all orders.
+* Counted completed orders.
+* Counted pending and cancelled orders.
+* Calculated completed revenue only.
+* Verified revenue by product, category, and customer.
+
+Business numbers I verified:
+
+* Total order activity.
+* Completed revenue.
+* Revenue performance by product and category.
+* Order distribution by city.
+* Customers with multiple orders.
+* Orders that should not count as revenue.
+
+What SQL mistake I understand better now:
+
+* I understand that JOIN conditions are important because without connecting tables correctly, SQL can return wrong results.
+* I also understand that filtering order status is important when calculating real revenue.
+
+What was difficult:
+
+* Understanding which tables were needed for each query.
+* Knowing when a JOIN was required.
+* Making sure business calculations matched the expected results.
+
+What I need to practice more:
+
+* Writing more complex JOIN queries.
+* Advanced GROUP BY and HAVING queries.
+* Creating larger business reports from multiple tables.
+
+Did I use AI? If yes, how did I use it?
+
+* Yes. I used AI to help explain SQL errors, understand query logic, and check whether my fixes were correct. I used it as a learning assistant, not as a replacement for understanding the queries.
+
+Can I explain my fixed queries live?
+
+* Yes. I can explain what each query does, which tables it uses, why JOIN is needed or not needed, and what business information the result provides.
