@@ -1,0 +1,58 @@
+Daily Report - Day 8 Practice
+
+Today I worked on:
+- Building a Python data analysis pipeline for order data.
+- Processing raw order records and transforming them into clean and usable data.
+- Practicing data engineering concepts like validation, cleaning, aggregation, and reporting.
+
+Python tasks completed:
+- Created reusable Python functions for different analysis tasks.
+- Counted records and displayed raw data.
+- Worked with lists and dictionaries.
+- Calculated order totals using quantity * price.
+- Created reports from processed data.
+- Saved processed results into output text files.
+
+Validation logic completed:
+- Created validation rules to separate valid and invalid orders.
+- Checked for missing customer names.
+- Checked if quantity values were greater than zero.
+- Checked if price values were greater than zero.
+- Stored valid and invalid records separately.
+
+Cleaning/normalization completed:
+- Added calculated total_amount fields to valid orders.
+- Normalized status values by removing extra spaces and converting text to lowercase.
+- Cleaned data to make sure similar values were treated as the same.
+
+Reports generated:
+- valid_orders.txt containing valid cleaned orders.
+- invalid_orders.txt containing rejected records.
+- order_report.txt containing business metrics such as:
+  - Completed revenue.
+  - Average completed order value.
+  - Highest completed order.
+  - Lowest completed order.
+  - Counts and revenue grouped by different fields.
+
+What was difficult:
+- Understanding how to structure the data pipeline correctly.
+- Making sure invalid records were removed before calculating business metrics.
+- Writing functions that could work with different fields instead of only one specific case.
+- Understanding how dictionaries can be used for counting and grouping data.
+
+What I understood better today:
+- How real data processing pipelines work.
+- Why data validation and cleaning are important before analysis.
+- How to organize Python code into smaller reusable functions.
+- How to calculate business metrics from raw data.
+
+What I need to practice more:
+- Writing more advanced data transformations.
+- Working with larger datasets.
+- Improving my ability to design clean Python project structures.
+- Practicing more aggregation and reporting functions.
+
+Did I use AI? If yes, how did I use it?
+- Yes, I used AI as a learning assistant to explain programming concepts, review my logic, debug errors, and understand better ways to structure my Python code.
+- I used AI to improve my understanding, but I wrote and tested the final code myself.
