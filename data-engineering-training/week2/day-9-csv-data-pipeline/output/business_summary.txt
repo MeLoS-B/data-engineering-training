@@ -1,0 +1,52 @@
+Business Summary - Day 9
+========================
+
+Completed revenue: 1624.0
+
+Orders by status:
+- completed: 9
+- cancelled: 2
+- pending: 2
+
+Orders by city:
+- Vushtrri: 4
+- Prishtina: 4
+- Mitrovica: 2
+- Peja: 1
+- Prizren: 1
+- Ferizaj: 1
+
+Revenue by category:
+- Electronics: 1240.0
+- Accessories: 264.0
+- Office: 120.0
+
+Revenue by channel:
+- online: 930.0
+- store: 670.0
+- unknown: 24.0
+
+Top 3 customers by completed revenue:
+- Arta: 700.0
+- Leart: 360.0
+- Dren: 180.0
+
+Top 3 products by completed revenue:
+- Laptop: 700.0
+- Monitor: 540.0
+- Headphones: 150.0
+
+Most valuable completed order:
+- Order 1 with 700.0
+
+Orders that should not count as revenue:
+- Pending orders
+- Cancelled orders
+
+Business recommendation:
+- Focus on completed orders and monitor pending orders before considering them revenue.
+
+Why this Gold output can be trusted:
+- Only validated clean orders were used.
+- Only completed orders contribute to revenue.
+- Invalid records were separated during validation.

@@ -1,0 +1,5 @@
+Vushtrri: 750.0
+Peja: 360.0
+Prishtina: 214.0
+Mitrovica: 180.0
+Prizren: 120.0

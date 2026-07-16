@@ -1,0 +1,5 @@
+Arta: 700.0
+Leart: 360.0
+Dren: 180.0
+Faton: 120.0
+Elira: 100.0

@@ -1,0 +1,10 @@
+order_id,customer_name,product_name,quantity,total_amount,status
+1,Arta,Laptop,1,700.0,completed
+2,Blend,Mouse,2,30.0,completed
+4,Dren,Monitor,1,180.0,completed
+7,Nora,Headphones,1,50.0,completed
+8,Leart,Monitor,2,360.0,completed
+9,Faton,Desk Chair,1,120.0,completed
+10,Blend,USB Cable,3,24.0,completed
+13,Gresa,Mouse,4,60.0,completed
+14,Elira,Headphones,2,100.0,completed

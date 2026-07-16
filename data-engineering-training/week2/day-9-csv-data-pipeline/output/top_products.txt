@@ -1,0 +1,5 @@
+Laptop: 700.0
+Monitor: 540.0
+Headphones: 150.0
+Desk Chair: 120.0
+Mouse: 90.0
