@@ -1,0 +1,64 @@
+Daily Report - Day 10 Practice
+
+Today I worked on:
+- Building a complete Bronze / Silver / Gold data pipeline using Python.
+- Reading raw CSV files, cleaning data, enriching records, and creating business reports.
+- Understanding how data moves from raw data to business-ready outputs.
+
+Bronze tasks completed:
+- Loaded raw customer, product, and order CSV files.
+- Inspected the raw data structure and identified data quality problems.
+- Kept the original data unchanged as the source of truth.
+- Identified issues such as missing values, duplicates, invalid IDs, and incorrect data formats.
+
+Silver tasks completed:
+- Created validation rules for orders.
+- Removed invalid records and separated them from clean data.
+- Checked missing customer IDs and product IDs.
+- Removed duplicate order IDs.
+- Standardized data values.
+- Enriched orders with customer and product information.
+- Added calculated fields such as total_amount.
+
+Gold tasks completed:
+- Created business-ready reports from Silver data.
+- Generated:
+  - revenue_by_category.csv
+  - revenue_by_city.csv
+  - revenue_by_customer.csv
+  - top_products.csv
+- Calculated completed revenue using only valid completed orders.
+- Prepared outputs that could be used by dashboards or business users.
+
+What I understood better today:
+- I understood the purpose of Bronze, Silver, and Gold architecture.
+- Bronze keeps original data, Silver improves data quality, and Gold provides business insights.
+- I learned why dashboards should use Gold data instead of raw data.
+- I understood that data quality checks are important before making business decisions.
+
+What was difficult:
+- Creating the validation logic for invalid records.
+- Handling missing and incorrect data without breaking the pipeline.
+- Joining customer, product, and order data correctly.
+- Debugging Python errors during the pipeline development.
+
+One result I can explain and defend:
+- I can explain the completed revenue calculation.
+- The logic is that only valid orders with status "completed" are included.
+- The revenue is calculated using:
+  
+  total_amount = quantity * price
+
+- Pending and cancelled orders are excluded because they do not represent real revenue.
+
+What I need to practice more:
+- PySpark transformations.
+- Databricks workflows.
+- Delta Lake concepts.
+- Building more scalable pipelines.
+- Writing more advanced data quality checks.
+
+Did I use AI? If yes, how did I use it?
+- Yes, I used AI as a learning assistant.
+- I used it to debug Python errors, review my pipeline logic, understand Bronze/Silver/Gold architecture, and improve documentation files.
+- I still wrote and tested the pipeline code myself and used AI mainly for guidance and explanations.
