@@ -1,0 +1,61 @@
+Day 11 - Daily Report
+Date: 2026-07-20
+
+Topic:
+Python + SQL Pipeline Preparation
+
+Summary:
+Today I continued working on the data engineering pipeline preparation project. 
+I worked with cleaned order data, SQL analysis queries, and prepared documentation 
+for moving the project later into a Databricks notebook environment.
+
+Tasks Completed:
+
+1. SQL Analysis
+- Created and used the clean_orders table.
+- Loaded cleaned order data into SQL.
+- Practiced writing business analysis queries.
+- Retrieved all clean orders.
+- Calculated revenue using quantity * price.
+- Counted orders by status and city.
+- Calculated completed revenue.
+- Analyzed revenue by city.
+- Created queries for top orders and business reporting.
+
+2. Data Cleaning and Pipeline Understanding
+- Reviewed the difference between raw data (Bronze) and cleaned data (Silver).
+- Applied validation and normalization concepts.
+- Ensured cleaned data contains correct formats and usable values.
+- Prepared data structure that can be used for analytics.
+
+3. Python + SQL Comparison
+- Compared data processing approaches between Python and SQL.
+- Understood when Python is useful for data cleaning and transformation.
+- Understood when SQL is useful for querying and business reporting.
+
+4. Documentation
+- Created README.md structure for the pipeline project.
+- Documented:
+  - Project goal
+  - Bronze data explanation
+  - Data quality issues
+  - Silver layer cleaning rules
+  - Validation and normalization steps
+  - Future Databricks notebook migration idea
+
+Challenges:
+- Fixed SQL syntax issues during table creation and querying.
+- Reviewed query logic to ensure calculations only use valid cleaned records.
+- Improved understanding of building analytics-ready datasets.
+
+What I Learned:
+- How SQL queries can be used for business reporting.
+- How cleaned Silver data becomes the foundation for Gold analytics.
+- How Python and SQL work together inside a data engineering pipeline.
+- Better understanding of ETL workflow concepts.
+
+Next Steps:
+- Continue building Gold layer reports.
+- Prepare more advanced SQL analytics.
+- Start connecting pipeline concepts with Databricks and PySpark.
+- Improve documentation and project structure.
