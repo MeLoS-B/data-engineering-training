@@ -1,0 +1,11 @@
+customer_id,customer_name,city,total_orders,total_revenue
+C011,Noar,Gjilan,2,880.0
+C001,Arta,Vushtrri,2,745.0
+C010,Era,Vushtrri,2,710.0
+C002,Blend,Prishtina,2,390.0
+C006,Faton,Prizren,1,360.0
+C004,Elira,Vushtrri,2,240.0
+C009,Jon,Prishtina,1,200.0
+C008,Nora,Ferizaj,1,50.0
+C007,Gresa,Prishtina,1,16.0
+C012,Sara,Peja,1,5.0

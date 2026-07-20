@@ -1,0 +1,10 @@
+order_id,customer_id,product_id,quantity,status,channel,order_date,errors
+3,C003,P003,,completed,online,2026-07-02,missing quantity
+6,C005,P005,-1,completed,store,2026-07-03,quantity <= 0
+7,C006,P006,abc,pending,unknown,2026-07-04,invalid quantity
+8,C007,P002,2,unknown,online,2026-07-04,missing status
+9,C008,P007,1,completed,store,,missing date
+16,C013,P002,2,completed,online,2026-07-08,customer not found
+17,C003,P999,1,completed,online,2026-07-08,product not found
+18,C005,P005,1,completed,unknown,2026-07-09,missing channel
+22,C009,P009,0,completed,online,2026-07-11,quantity <= 0

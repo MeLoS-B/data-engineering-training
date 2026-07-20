@@ -1,0 +1,24 @@
+
+Executive Summary - Sales Pipeline
+
+Total valid orders: 15
+
+Invalid orders rejected: 9
+
+Total revenue: 3596.00
+
+Completed revenue:
+2631.00
+
+
+Cities:
+6
+
+
+Categories:
+3
+
+
+Top customer:
+Noar
+
