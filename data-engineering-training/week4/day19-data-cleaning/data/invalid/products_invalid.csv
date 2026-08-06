@@ -1,0 +1,77 @@
+source_file,source_row_number,record_key,invalid_reasons,processed_at,raw_product_id,raw_product_name,raw_category,raw_price,raw_stock_quantity,raw_supplier_id,raw_status
+products_raw.csv,10,9,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,9,Product 9 , laptop ,420.36,15,1,invalid
+products_raw.csv,16,15,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,15,Product 15 ,ACCESSORIES,442.71,97,18,invalid
+products_raw.csv,18,17,stock_quantity cannot be negative,2026-08-06T09:37:35.194035Z,17,Product 17 ,Accessories,309.38,-17,16,ACTIVE
+products_raw.csv,20,19,price must be greater than zero; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,19,Product 19 ,Accessories,-210.36,36,9,invalid
+products_raw.csv,21,20,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,20,Product 20 ,Accessories,370.68,83,13,invalid
+products_raw.csv,22,21,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,21,Product 21 ,Monitor,123.14,61,,invalid
+products_raw.csv,24,23,price is invalid or missing,2026-08-06T09:37:35.194035Z,23,Product 23 ,Monitor,,63,8,active
+products_raw.csv,30,29,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,29,Product 29 ,ACCESSORIES,172.41,7,9,invalid
+products_raw.csv,31,30,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,30,Product 30 ,Monitor,484.0,16,17,invalid
+products_raw.csv,35,34,stock_quantity cannot be negative,2026-08-06T09:37:35.194035Z,34,Product 34 ,Monitor,356.21,-60,16,ACTIVE
+products_raw.csv,36,34,duplicate product_id '34',2026-08-06T09:37:35.194035Z,34,Product 35 ,ACCESSORIES,41.2,67,15,ACTIVE
+products_raw.csv,37,36,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,36,Product 36 , laptop ,392.64,28,5,invalid
+products_raw.csv,38,37,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,37,Product 37 ,ACCESSORIES,486.08,13,3,invalid
+products_raw.csv,39,38,price must be greater than zero; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,38,Product 38 , laptop ,-389.55,0,8,invalid
+products_raw.csv,40,39,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,39,Product 39 ,Accessories,460.36,82,5,invalid
+products_raw.csv,44,43,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,43,Product 43 ,Accessories,271.05,58,11,invalid
+products_raw.csv,47,46,price is invalid or missing,2026-08-06T09:37:35.194035Z,46,Product 46 ,ACCESSORIES,,63,3,active
+products_raw.csv,49,48,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,48,Product 48 ,ACCESSORIES,21.88,43,12,invalid
+products_raw.csv,52,51,stock_quantity cannot be negative; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,51,Product 51 ,Accessories,235.23,-33,4,invalid
+products_raw.csv,58,57,price must be greater than zero,2026-08-06T09:37:35.194035Z,57,Product 57 ,Monitor,-167.98,23,15,ACTIVE
+products_raw.csv,63,62,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,62,Product 62 , laptop ,29.38,60,12,invalid
+products_raw.csv,69,68,stock_quantity cannot be negative; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,68,Product 68 ,Laptop,170.81,-78,9,invalid
+products_raw.csv,70,69,price is invalid or missing,2026-08-06T09:37:35.194035Z,69,Product 69 ,Accessories,,40,10,ACTIVE
+products_raw.csv,71,69,duplicate product_id '69',2026-08-06T09:37:35.194035Z,69,Product 70 ,Laptop,362.18,76,1,ACTIVE
+products_raw.csv,74,73,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,73,Product 73 ,Accessories,9.31,94,5,invalid
+products_raw.csv,75,74,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,74,Product 74 ,ACCESSORIES,121.89,40,12,invalid
+products_raw.csv,77,76,price must be greater than zero; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,76,Product 76 ,Laptop,-206.84,83,16,invalid
+products_raw.csv,81,80,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,80,Product 80 ,Monitor,70.8,58,8,invalid
+products_raw.csv,83,82,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,82,Product 82 ,Accessories,143.3,34,9,invalid
+products_raw.csv,86,85,stock_quantity cannot be negative; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,85,Product 85 ,Accessories,166.54,-50,8,invalid
+products_raw.csv,92,91,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,91,Product 91 ,Laptop,388.62,85,4,invalid
+products_raw.csv,93,92,price is invalid or missing,2026-08-06T09:37:35.194035Z,92,Product 92 ,Accessories,,79,7,ACTIVE
+products_raw.csv,96,95,price must be greater than zero,2026-08-06T09:37:35.194035Z,95,Product 95 , laptop ,-207.45,47,20,active
+products_raw.csv,99,98,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,98,Product 98 , laptop ,321.4,11,13,invalid
+products_raw.csv,103,102,stock_quantity cannot be negative,2026-08-06T09:37:35.194035Z,102,Product 102 ,Laptop,365.38,-26,14,ACTIVE
+products_raw.csv,106,104,duplicate product_id '104',2026-08-06T09:37:35.194035Z,104,Product 105 ,ACCESSORIES,278.02,82,,ACTIVE
+products_raw.csv,111,110,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,110,Product 110 ,ACCESSORIES,305.78,81,3,invalid
+products_raw.csv,113,112,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,112,Product 112 ,ACCESSORIES,309.29,25,6,invalid
+products_raw.csv,115,114,price must be greater than zero,2026-08-06T09:37:35.194035Z,114,Product 114 , laptop ,-182.81,19,7,ACTIVE
+products_raw.csv,116,115,price is invalid or missing,2026-08-06T09:37:35.194035Z,115,Product 115 ,Laptop,,96,11,ACTIVE
+products_raw.csv,117,116,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,116,Product 116 ,Monitor,197.97,58,10,invalid
+products_raw.csv,120,119,stock_quantity cannot be negative,2026-08-06T09:37:35.194035Z,119,Product 119 ,ACCESSORIES,16.57,-79,15,ACTIVE
+products_raw.csv,123,122,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,122,Product 122 ,Monitor,185.84,56,17,invalid
+products_raw.csv,124,123,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,123,Product 123 , laptop ,25.18,81,3,invalid
+products_raw.csv,128,127,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,127,Product 127 ,Accessories,70.15,62,6,invalid
+products_raw.csv,129,128,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,128,Product 128 ,Laptop,395.25,28,12,invalid
+products_raw.csv,131,130,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,130,Product 130 , laptop ,453.01,58,9,invalid
+products_raw.csv,134,133,price must be greater than zero; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,133,Product 133 , laptop ,-103.48,51,9,invalid
+products_raw.csv,136,135,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,135,Product 135 ,Accessories,385.29,6,15,invalid
+products_raw.csv,137,136,stock_quantity cannot be negative; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,136,Product 136 ,Laptop,263.12,-88,9,invalid
+products_raw.csv,139,138,price is invalid or missing,2026-08-06T09:37:35.194035Z,138,Product 138 , laptop ,,73,12,active
+products_raw.csv,140,139,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,139,Product 139 , laptop ,383.5,56,6,invalid
+products_raw.csv,141,139,duplicate product_id '139',2026-08-06T09:37:35.194035Z,139,Product 140 ,Accessories,373.08,6,17,active
+products_raw.csv,142,141,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,141,Product 141 ,Accessories,158.49,74,1,invalid
+products_raw.csv,143,142,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,142,Product 142 ,Accessories,21.73,19,20,invalid
+products_raw.csv,146,145,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,145,Product 145 ,Accessories,6.29,45,4,invalid
+products_raw.csv,148,147,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,147,Product 147 ,Accessories,296.6,26,,invalid
+products_raw.csv,150,149,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,149,Product 149 ,Laptop,355.2,57,3,invalid
+products_raw.csv,152,151,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,151,Product 151 ,Monitor,483.73,7,12,invalid
+products_raw.csv,153,152,price must be greater than zero; product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,152,Product 152 ,Monitor,-324.57,56,17,invalid
+products_raw.csv,154,153,stock_quantity cannot be negative,2026-08-06T09:37:35.194035Z,153,Product 153 ,Laptop,248.96,-21,2,ACTIVE
+products_raw.csv,156,155,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,155,Product 155 ,Laptop,33.9,99,1,invalid
+products_raw.csv,158,157,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,157,Product 157 ,Monitor,261.54,82,14,invalid
+products_raw.csv,159,158,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,158,Product 158 ,Laptop,91.45,39,10,invalid
+products_raw.csv,161,160,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,160,Product 160 ,ACCESSORIES,190.7,55,3,invalid
+products_raw.csv,162,161,price is invalid or missing,2026-08-06T09:37:35.194035Z,161,Product 161 , laptop ,,22,4,active
+products_raw.csv,163,162,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,162,Product 162 ,Laptop,119.99,4,11,invalid
+products_raw.csv,164,163,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,163,Product 163 ,Laptop,462.96,33,9,invalid
+products_raw.csv,167,166,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,166,Product 166 , laptop ,89.04,30,6,invalid
+products_raw.csv,168,167,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,167,Product 167 ,ACCESSORIES,457.9,24,11,invalid
+products_raw.csv,171,170,stock_quantity cannot be negative,2026-08-06T09:37:35.194035Z,170,Product 170 ,Monitor,478.07,-29,10,ACTIVE
+products_raw.csv,172,171,price must be greater than zero,2026-08-06T09:37:35.194035Z,171,Product 171 ,Laptop,-198.82,74,19,ACTIVE
+products_raw.csv,173,172,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,172,Product 172 ,Laptop,76.57,3,4,invalid
+products_raw.csv,175,174,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,174,Product 174 ,Laptop,25.62,88,3,invalid
+products_raw.csv,176,174,product status 'invalid' is invalid; duplicate product_id '174',2026-08-06T09:37:35.194035Z,174,Product 175 ,Accessories,28.11,75,7,invalid
+products_raw.csv,178,177,product status 'invalid' is invalid,2026-08-06T09:37:35.194035Z,177,Product 177 ,Laptop,106.83,14,2,invalid

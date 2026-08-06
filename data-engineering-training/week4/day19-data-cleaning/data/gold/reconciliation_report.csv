@@ -1,0 +1,42 @@
+order_id,expected_total,paid_total,refunded_total,reconciliation_status
+107,1044.81,921.64,0.0,Underpaid
+11,916.98,124.4,132.32,Underpaid
+113,419.09,0.0,0.0,Missing Payment
+114,51.78,0.0,0.0,Missing Payment
+117,0.0,0.0,0.0,Missing Payment
+12,0.0,0.0,0.0,Matched
+122,0.0,0.0,0.0,Missing Payment
+130,0.0,0.0,0.0,Missing Payment
+135,2203.12,0.0,105.17,Refunded
+136,0.0,227.56,0.0,Overpaid
+138,0.0,0.0,419.39,Refunded
+146,0.0,0.0,0.0,Missing Payment
+159,0.0,0.0,225.16,Refunded
+166,0.0,0.0,0.0,Missing Payment
+170,0.0,1501.05,0.0,Overpaid
+184,852.7,0.0,0.0,Missing Payment
+186,0.0,151.3,0.0,Overpaid
+187,507.09,643.94,0.0,Overpaid
+188,1991.36,0.0,0.0,Missing Payment
+189,57.63,0.0,0.0,Missing Payment
+193,186.28,777.03,787.77,Overpaid
+20,474.18,0.0,0.0,Missing Payment
+207,0.0,30.39,0.0,Overpaid
+213,796.08,0.0,0.0,Missing Payment
+214,721.16,0.0,0.0,Missing Payment
+22,0.0,0.0,0.0,Missing Payment
+28,0.0,0.0,0.0,Missing Payment
+37,0.0,0.0,0.0,Missing Payment
+57,1892.72,453.24,618.44,Underpaid
+59,0.0,0.0,0.0,Matched
+6,193.2,0.0,0.0,Missing Payment
+61,0.0,684.24,0.0,Overpaid
+63,0.0,17.16,0.0,Overpaid
+65,0.0,0.0,428.41,Refunded
+76,0.0,0.0,0.0,Missing Payment
+77,0.0,0.0,0.0,Matched
+78,1213.04,0.0,0.0,Missing Payment
+80,0.0,104.05,0.0,Overpaid
+81,0.0,0.0,0.0,Missing Payment
+91,905.45,0.0,0.0,Missing Payment
+98,0.0,0.0,0.0,Matched

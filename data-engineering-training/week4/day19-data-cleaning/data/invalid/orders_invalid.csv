@@ -1,0 +1,180 @@
+source_file,source_row_number,record_key,invalid_reasons,processed_at,raw_order_id,raw_customer_id,raw_order_date,raw_status,raw_shipping_city,raw_payment_method
+orders_raw.csv,2,1,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,1,73,2026-02-02,NEW,Ferizaj,Cash
+orders_raw.csv,3,2,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,2,197,2026-02-03,X,Gjilan,PayPal
+orders_raw.csv,4,3,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,3,191,2026-02-04,NEW,Mitrovica,Card
+orders_raw.csv,5,4,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,4,112,2026-02-05,NEW,Ferizaj,Cash
+orders_raw.csv,6,5,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,5,181,2026-02-06,NEW,Vushtrri,PayPal
+orders_raw.csv,8,7,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,7,112,2026-02-08,NEW,Vushtrri,Card
+orders_raw.csv,9,8,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,8,74,2026-02-09,NEW,Prishtina,Cash
+orders_raw.csv,10,9,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,9,126,2026-02-10,NEW, Gjakova ,PayPal
+orders_raw.csv,11,10,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,10,204,2026-02-11,Completed, Gjakova ,PayPal
+orders_raw.csv,14,13,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,13,29,2026-02-14,NEW, Gjakova ,PayPal
+orders_raw.csv,15,14,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,14,144,2026-02-15,NEW,Ferizaj,Cash
+orders_raw.csv,16,15,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,15,25,2026-02-16,X,Mitrovica,PayPal
+orders_raw.csv,17,16,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,16,23,2026-02-17,X,Prishtina,
+orders_raw.csv,18,17,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,17,96,2026-02-18,Completed,Gjilan,Cash
+orders_raw.csv,19,18,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,18,110,2026-02-19,Completed,Mitrovica,PayPal
+orders_raw.csv,20,19,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,19,60,2026-02-20,X,Prizren,PayPal
+orders_raw.csv,22,21,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,21,84,2026-02-22,Completed, Gjakova ,PayPal
+orders_raw.csv,24,23,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,23,113,2026-02-24,completed,Peja,Card
+orders_raw.csv,25,24,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,24,86,2026-02-25,X,Peja,PayPal
+orders_raw.csv,26,25,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,25,50,2026-02-26,completed,Gjilan,PayPal
+orders_raw.csv,27,26,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,26,159,2026-02-27,Completed,Prizren,Card
+orders_raw.csv,28,27,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,27,186,2026-02-28,completed,Vushtrri,Cash
+orders_raw.csv,30,29,customer_id does not exist in trusted customers; order_date is invalid or missing,2026-08-06T09:37:35.194035Z,29,67,bad-date,NEW,Prizren,PayPal
+orders_raw.csv,31,30,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,30,27,2026-02-03,Completed,Mitrovica,Card
+orders_raw.csv,32,31,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,31,38,2026-02-04,completed,Gjilan,Cash
+orders_raw.csv,33,32,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,32,71,2026-02-05,Completed,prishtina,
+orders_raw.csv,34,33,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,33,164,2026-02-06,NEW,Gjilan,Card
+orders_raw.csv,35,34,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,34,100,2026-02-07,X,Prishtina,Card
+orders_raw.csv,36,35,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,35,103,2026-02-08,X,Peja,PayPal
+orders_raw.csv,37,36,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,36,162,2026-02-09,completed, Gjakova ,Card
+orders_raw.csv,39,38,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,38,190,2026-02-11,Completed,Mitrovica,PayPal
+orders_raw.csv,40,39,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,39,147,2026-02-12,X,Peja,PayPal
+orders_raw.csv,41,40,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,40,185,2026-02-13,Completed,Prizren,PayPal
+orders_raw.csv,42,41,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,41,32,2026-02-14,X,Mitrovica,Cash
+orders_raw.csv,43,42,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,42,67,2026-02-15,NEW,Mitrovica,Card
+orders_raw.csv,44,43,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,43,201,2026-02-16,X,Prizren,Cash
+orders_raw.csv,45,44,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,44,109,2026-02-17,X, Gjakova ,Card
+orders_raw.csv,46,45,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,45,160,2026-02-18,X,Vushtrri,PayPal
+orders_raw.csv,47,46,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,46,170,2026-02-19,Completed,Ferizaj,Card
+orders_raw.csv,48,47,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,47,100,2026-02-20,X,prishtina,Card
+orders_raw.csv,49,48,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,48,65,2026-02-21,Completed,Prizren,
+orders_raw.csv,50,49,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,49,184,2026-02-22,Completed,Vushtrri,Cash
+orders_raw.csv,51,49,customer_id does not exist in trusted customers; order status 'x' is invalid; duplicate order_id '49',2026-08-06T09:37:35.194035Z,49,26,2026-02-23,X,Vushtrri,Card
+orders_raw.csv,52,51,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,51,184,2026-02-24,X,Vushtrri,Card
+orders_raw.csv,53,52,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,52,164,2026-02-25,completed,Vushtrri,Cash
+orders_raw.csv,54,53,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,53,106,2026-02-26,X,Peja,PayPal
+orders_raw.csv,55,54,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,54,48,2026-02-27,X,Vushtrri,Card
+orders_raw.csv,56,55,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,55,187,2026-02-28,completed,Prishtina,Cash
+orders_raw.csv,57,56,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,56,71,2026-02-01,X,Mitrovica,Card
+orders_raw.csv,59,58,order_date is invalid or missing,2026-08-06T09:37:35.194035Z,58,161,bad-date,completed,Gjilan,Card
+orders_raw.csv,61,60,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,60,57,2026-02-05,X, Gjakova ,Card
+orders_raw.csv,63,62,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,62,50,2026-02-07,X,Vushtrri,PayPal
+orders_raw.csv,65,64,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,64,164,2026-02-09,X, Gjakova ,
+orders_raw.csv,67,66,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,66,201,2026-02-11,Completed,Gjilan,PayPal
+orders_raw.csv,68,67,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,67,97,2026-02-12,completed,Mitrovica,PayPal
+orders_raw.csv,69,68,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,68,48,2026-02-13,X,Prishtina,PayPal
+orders_raw.csv,70,69,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,69,205,2026-02-14,completed,Ferizaj,Card
+orders_raw.csv,71,70,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,70,168,2026-02-15,completed,Ferizaj,Cash
+orders_raw.csv,72,71,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,71,125,2026-02-16,X,prishtina,PayPal
+orders_raw.csv,73,72,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,72,93,2026-02-17,Completed,Gjilan,Cash
+orders_raw.csv,74,73,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,73,15,2026-02-18,NEW,Ferizaj,Card
+orders_raw.csv,75,74,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,74,136,2026-02-19,completed,Prishtina,PayPal
+orders_raw.csv,76,75,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,75,3,2026-02-20,Completed,prishtina,PayPal
+orders_raw.csv,80,79,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,79,203,2026-02-24,Completed,prishtina,PayPal
+orders_raw.csv,83,82,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,82,190,2026-02-27,X,prishtina,PayPal
+orders_raw.csv,84,83,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,83,31,2026-02-28,completed,Mitrovica,Card
+orders_raw.csv,85,84,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,84,36,2026-02-01,X, Gjakova ,PayPal
+orders_raw.csv,86,85,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,85,15,2026-02-02,X, Gjakova ,Card
+orders_raw.csv,87,86,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,86,180,2026-02-03,X,Peja,Cash
+orders_raw.csv,88,87,order_date is invalid or missing,2026-08-06T09:37:35.194035Z,87,43,bad-date,NEW,Prizren,Cash
+orders_raw.csv,89,88,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,88,120,2026-02-05,X,Gjilan,Cash
+orders_raw.csv,90,89,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,89,96,2026-02-06,X,Mitrovica,PayPal
+orders_raw.csv,91,90,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,90,20,2026-02-07,Completed,Ferizaj,PayPal
+orders_raw.csv,93,92,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,92,12,2026-02-09,completed,prishtina,PayPal
+orders_raw.csv,94,93,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,93,124,2026-02-10,X,Prizren,Card
+orders_raw.csv,95,94,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,94,55,2026-02-11,X,Prizren,Cash
+orders_raw.csv,96,95,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,95,25,2026-02-12,completed,Ferizaj,Cash
+orders_raw.csv,97,96,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,96,200,2026-02-13,Completed,Gjilan,
+orders_raw.csv,98,97,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,97,112,2026-02-14,completed,Mitrovica,Cash
+orders_raw.csv,100,99,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,99,91,2026-02-16,X,Mitrovica,Cash
+orders_raw.csv,101,99,duplicate order_id '99',2026-08-06T09:37:35.194035Z,99,129,2026-02-17,completed,Vushtrri,Cash
+orders_raw.csv,102,101,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,101,53,2026-02-18,X,prishtina,Cash
+orders_raw.csv,103,102,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,102,50,2026-02-19,completed,Gjilan,Card
+orders_raw.csv,104,103,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,103,151,2026-02-20,NEW,Prishtina,Cash
+orders_raw.csv,105,104,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,104,186,2026-02-21,X,Vushtrri,PayPal
+orders_raw.csv,106,105,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,105,13,2026-02-22,X,Gjilan,Card
+orders_raw.csv,107,106,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,106,2,2026-02-23,NEW,Peja,Cash
+orders_raw.csv,109,108,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,108,157,2026-02-25,X,Prizren,PayPal
+orders_raw.csv,110,109,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,109,173,2026-02-26,NEW,Peja,Card
+orders_raw.csv,111,110,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,110,171,2026-02-27,X,Prizren,Card
+orders_raw.csv,112,111,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,111,170,2026-02-28,Completed,Prishtina,Cash
+orders_raw.csv,113,112,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,112,199,2026-02-01,NEW,Prishtina,
+orders_raw.csv,116,115,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,115,108,2026-02-04,NEW,Ferizaj,Card
+orders_raw.csv,117,116,order_date is invalid or missing,2026-08-06T09:37:35.194035Z,116,111,bad-date,NEW, Gjakova ,PayPal
+orders_raw.csv,119,118,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,118,148,2026-02-07,X, Gjakova ,Card
+orders_raw.csv,120,119,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,119,4,2026-02-08,X,Prizren,Cash
+orders_raw.csv,121,120,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,120,198,2026-02-09,X,Vushtrri,Card
+orders_raw.csv,122,121,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,121,22,2026-02-10,X,Peja,Card
+orders_raw.csv,124,123,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,123,3,2026-02-12,NEW,prishtina,Card
+orders_raw.csv,125,124,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,124,32,2026-02-13,Completed, Gjakova ,Card
+orders_raw.csv,126,125,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,125,71,2026-02-14,Completed, Gjakova ,PayPal
+orders_raw.csv,127,126,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,126,191,2026-02-15,Completed,Prishtina,Cash
+orders_raw.csv,128,127,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,127,199,2026-02-16,Completed,prishtina,Cash
+orders_raw.csv,129,128,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,128,161,2026-02-17,X, Gjakova ,
+orders_raw.csv,130,129,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,129,172,2026-02-18,completed,Prishtina,PayPal
+orders_raw.csv,132,131,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,131,167,2026-02-20,NEW,Mitrovica,Cash
+orders_raw.csv,133,132,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,132,80,2026-02-21,Completed, Gjakova ,PayPal
+orders_raw.csv,134,133,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,133,16,2026-02-22,completed,Ferizaj,PayPal
+orders_raw.csv,135,134,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,134,187,2026-02-23,X, Gjakova ,PayPal
+orders_raw.csv,138,137,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,137,99,2026-02-26,X,Gjilan,PayPal
+orders_raw.csv,140,139,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,139,160,2026-02-28,completed,Prishtina,Card
+orders_raw.csv,141,140,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,140,154,2026-02-01,completed,Mitrovica,Card
+orders_raw.csv,142,141,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,141,97,2026-02-02,X,Mitrovica,PayPal
+orders_raw.csv,143,142,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,142,198,2026-02-03,Completed, Gjakova ,Cash
+orders_raw.csv,144,143,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,143,177,2026-02-04,NEW,Ferizaj,Cash
+orders_raw.csv,145,144,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,144,69,2026-02-05,X,Prizren,
+orders_raw.csv,146,145,customer_id does not exist in trusted customers; order_date is invalid or missing,2026-08-06T09:37:35.194035Z,145,151,bad-date,NEW,Gjilan,Card
+orders_raw.csv,148,147,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,147,176,2026-02-08,X,Ferizaj,PayPal
+orders_raw.csv,149,148,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,148,22,2026-02-09,X,Mitrovica,Card
+orders_raw.csv,150,149,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,149,202,2026-02-10,Completed,Gjilan,PayPal
+orders_raw.csv,151,149,customer_id does not exist in trusted customers; order status 'x' is invalid; duplicate order_id '149',2026-08-06T09:37:35.194035Z,149,15,2026-02-11,X, Gjakova ,PayPal
+orders_raw.csv,152,151,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,151,53,2026-02-12,completed,Prishtina,Cash
+orders_raw.csv,153,152,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,152,118,2026-02-13,NEW,Vushtrri,Cash
+orders_raw.csv,154,153,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,153,198,2026-02-14,NEW,Peja,Cash
+orders_raw.csv,155,154,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,154,149,2026-02-15,completed,Vushtrri,Cash
+orders_raw.csv,156,155,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,155,123,2026-02-16,Completed,Peja,Card
+orders_raw.csv,157,156,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,156,50,2026-02-17,NEW,Prizren,PayPal
+orders_raw.csv,158,157,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,157,75,2026-02-18,completed,Ferizaj,Cash
+orders_raw.csv,159,158,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,158,200,2026-02-19,Completed,Peja,Card
+orders_raw.csv,161,160,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,160,162,2026-02-21,X,prishtina,
+orders_raw.csv,162,161,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,161,40,2026-02-22,completed,Prishtina,Cash
+orders_raw.csv,163,162,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,162,72,2026-02-23,NEW,prishtina,Card
+orders_raw.csv,164,163,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,163,53,2026-02-24,X,Peja,Cash
+orders_raw.csv,165,164,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,164,200,2026-02-25,completed,Mitrovica,Card
+orders_raw.csv,166,165,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,165,115,2026-02-26,Completed,Gjilan,Card
+orders_raw.csv,168,167,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,167,22,2026-02-28,NEW,Prishtina,Card
+orders_raw.csv,169,168,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,168,143,2026-02-01,completed, Gjakova ,Cash
+orders_raw.csv,170,169,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,169,17,2026-02-02,X,prishtina,PayPal
+orders_raw.csv,172,171,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,171,60,2026-02-04,NEW,Vushtrri,Cash
+orders_raw.csv,173,172,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,172,47,2026-02-05,X,Prizren,Cash
+orders_raw.csv,174,173,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,173,61,2026-02-06,Completed,Prizren,Card
+orders_raw.csv,175,174,customer_id does not exist in trusted customers; order_date is invalid or missing,2026-08-06T09:37:35.194035Z,174,66,bad-date,completed,Prishtina,PayPal
+orders_raw.csv,176,175,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,175,8,2026-02-08,NEW,Gjilan,PayPal
+orders_raw.csv,177,176,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,176,182,2026-02-09,X,Prishtina,
+orders_raw.csv,178,177,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,177,26,2026-02-10,Completed,Ferizaj,Card
+orders_raw.csv,179,178,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,178,51,2026-02-11,completed, Gjakova ,PayPal
+orders_raw.csv,180,179,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,179,27,2026-02-12,X,Ferizaj,Cash
+orders_raw.csv,181,180,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,180,66,2026-02-13,X,prishtina,Cash
+orders_raw.csv,182,181,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,181,124,2026-02-14,X,Prizren,Cash
+orders_raw.csv,183,182,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,182,62,2026-02-15,Completed,Prishtina,Cash
+orders_raw.csv,184,183,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,183,184,2026-02-16,Completed,Prishtina,Card
+orders_raw.csv,186,185,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,185,36,2026-02-18,X,prishtina,Cash
+orders_raw.csv,191,190,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,190,116,2026-02-23,Completed, Gjakova ,Card
+orders_raw.csv,192,191,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,191,69,2026-02-24,X,Mitrovica,Card
+orders_raw.csv,193,192,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,192,40,2026-02-25,NEW,Gjilan,
+orders_raw.csv,195,194,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,194,67,2026-02-27,X,prishtina,Cash
+orders_raw.csv,196,195,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,195,117,2026-02-28,X,prishtina,Card
+orders_raw.csv,197,196,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,196,132,2026-02-01,NEW,Peja,PayPal
+orders_raw.csv,198,197,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,197,123,2026-02-02,completed,prishtina,Cash
+orders_raw.csv,199,198,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,198,194,2026-02-03,Completed,Ferizaj,Cash
+orders_raw.csv,200,199,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,199,67,2026-02-04,Completed,Peja,Card
+orders_raw.csv,201,199,duplicate order_id '199',2026-08-06T09:37:35.194035Z,199,100,2026-02-05,completed,Mitrovica,Card
+orders_raw.csv,202,201,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,201,15,2026-02-06,completed,Prizren,PayPal
+orders_raw.csv,203,202,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,202,5,2026-02-07,X,Vushtrri,Cash
+orders_raw.csv,204,203,order_date is invalid or missing,2026-08-06T09:37:35.194035Z,203,131,bad-date,Completed, Gjakova ,Card
+orders_raw.csv,205,204,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,204,203,2026-02-09,completed,Prizren,Cash
+orders_raw.csv,206,205,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,205,112,2026-02-10,NEW,Mitrovica,Card
+orders_raw.csv,207,206,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,206,71,2026-02-11,Completed,Prizren,Card
+orders_raw.csv,209,208,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,208,154,2026-02-13,NEW,prishtina,
+orders_raw.csv,210,209,order status 'x' is invalid,2026-08-06T09:37:35.194035Z,209,156,2026-02-14,X,Gjilan,Card
+orders_raw.csv,211,210,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,210,53,2026-02-15,Completed,Peja,PayPal
+orders_raw.csv,212,211,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,211,79,2026-02-16,Completed,Prishtina,Card
+orders_raw.csv,213,212,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,212,178,2026-02-17,X,Prishtina,PayPal
+orders_raw.csv,216,215,customer_id does not exist in trusted customers; order status 'x' is invalid,2026-08-06T09:37:35.194035Z,215,196,2026-02-20,X,Prizren,PayPal
+orders_raw.csv,217,216,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,216,69,2026-02-21,Completed,Prizren,PayPal
+orders_raw.csv,218,217,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,217,94,2026-02-22,NEW,Prizren,PayPal
+orders_raw.csv,219,218,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,218,96,2026-02-23,NEW,Ferizaj,PayPal
+orders_raw.csv,220,219,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,219,115,2026-02-24,NEW,prishtina,Cash
+orders_raw.csv,221,220,customer_id does not exist in trusted customers,2026-08-06T09:37:35.194035Z,220,183,2026-02-25,Completed,Ferizaj,PayPal

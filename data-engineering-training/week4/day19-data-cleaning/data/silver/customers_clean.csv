@@ -1,0 +1,65 @@
+customer_id,full_name,email,city,country,created_at,status
+4,Customer 4,user4@mail.com,Prishtina,Albania,2026-01-05,active
+6,Customer 6,user6@mail.com,Prishtina,Albania,2026-01-07,active
+7,Customer 7,user7@mail.com,Vushtrri,North Macedonia,2026-01-08,active
+9,Customer 9,user9@mail.com,Prishtina,North Macedonia,2026-01-10,active
+13,Customer 13,user13@mail.com,Gjilan,Albania,2026-01-14,active
+17,Customer 17,user17@mail.com,Vushtrri,North Macedonia,2026-01-18,active
+19,Customer 19,user19@mail.com,Gjilan,Albania,2026-01-20,active
+21,Customer 21,user21@mail.com,Gjilan,North Macedonia,2026-01-22,active
+24,Customer 24,user24@mail.com,Mitrovica,Albania,2026-01-25,active
+28,Customer 28,user28@mail.com,Gjakova,North Macedonia,2026-01-01,active
+30,Customer 30,user30@mail.com,Prishtina,Kosovo,2026-01-03,active
+34,Customer 34,user34@mail.com,Prishtina,North Macedonia,2026-01-07,active
+37,Customer 37,user37@mail.com,Gjakova,Kosovo,2026-01-10,active
+41,Customer 41,user41@mail.com,Ferizaj,North Macedonia,2026-01-14,active
+42,Customer 42,user42@mail.com,Prizren,Kosovo,2026-01-15,active
+43,Customer 43,user43@mail.com,Prizren,Albania,2026-01-16,active
+52,Customer 52,user52@mail.com,Mitrovica,Kosovo,2026-01-25,active
+55,Customer 55,user55@mail.com,Prishtina,Kosovo,2026-01-28,active
+56,Customer 56,user56@mail.com,Prizren,Kosovo,2026-01-01,active
+57,Customer 57,user57@mail.com,Prishtina,Kosovo,2026-01-02,active
+58,Customer 58,user58@mail.com,Mitrovica,Albania,2026-01-03,active
+76,Customer 76,user76@mail.com,Ferizaj,North Macedonia,2026-01-21,active
+77,Customer 77,user77@mail.com,Ferizaj,Kosovo,2026-01-22,active
+83,Customer 83,user83@mail.com,Prizren,North Macedonia,2026-01-28,active
+85,Customer 85,user85@mail.com,Mitrovica,Kosovo,2026-01-02,active
+86,Customer 86,user86@mail.com,Prizren,Albania,2026-01-03,active
+87,Customer 87,user87@mail.com,Prizren,North Macedonia,2026-01-04,active
+89,Customer 89,user89@mail.com,Vushtrri,Albania,2026-01-06,active
+91,Customer 91,user91@mail.com,Prizren,North Macedonia,2026-01-08,active
+92,Customer 92,user92@mail.com,Peja,Kosovo,2026-01-09,active
+95,Customer 95,user95@mail.com,Vushtrri,North Macedonia,2026-01-12,active
+100,Customer 100,user100@mail.com,Prizren,Kosovo,2026-01-17,active
+102,Customer 102,user102@mail.com,Prishtina,Kosovo,2026-01-19,active
+103,Customer 103,user103@mail.com,Vushtrri,North Macedonia,2026-01-20,active
+104,Customer 104,user104@mail.com,Vushtrri,Kosovo,2026-01-21,active
+111,Customer 111,user111@mail.com,Peja,North Macedonia,2026-01-28,active
+114,Customer 114,user114@mail.com,Peja,North Macedonia,2026-01-03,active
+119,Customer 119,user119@mail.com,Gjakova,Albania,2026-01-08,active
+125,Customer 125,user125@mail.com,Prishtina,North Macedonia,2026-01-14,active
+127,Customer 127,user127@mail.com,Prishtina,Kosovo,2026-01-16,active
+128,Customer 128,user128@mail.com,Prishtina,Kosovo,2026-01-17,active
+129,Customer 129,user129@mail.com,Gjilan,Kosovo,2026-01-18,active
+131,Customer 131,user131@mail.com,Gjilan,North Macedonia,2026-01-20,active
+134,Customer 134,user134@mail.com,Prizren,North Macedonia,2026-01-23,active
+137,Customer 137,user137@mail.com,Peja,Kosovo,2026-01-26,active
+138,Customer 138,user138@mail.com,Prishtina,North Macedonia,2026-01-27,active
+139,Customer 139,user139@mail.com,Ferizaj,North Macedonia,2026-01-28,active
+141,Customer 141,user141@mail.com,Peja,Kosovo,2026-01-02,active
+142,Customer 142,user142@mail.com,Gjilan,Kosovo,2026-01-03,active
+145,Customer 145,user145@mail.com,Gjakova,Albania,2026-01-06,active
+146,Customer 146,user146@mail.com,Ferizaj,Kosovo,2026-01-07,active
+147,Customer 147,user147@mail.com,Prishtina,Kosovo,2026-01-08,active
+152,Customer 152,user152@mail.com,Gjilan,Albania,2026-01-13,active
+153,Customer 153,user153@mail.com,Ferizaj,Albania,2026-01-14,active
+156,Customer 156,user156@mail.com,Gjilan,North Macedonia,2026-01-17,active
+161,Customer 161,user161@mail.com,Gjilan,North Macedonia,2026-01-22,active
+165,Customer 165,user165@mail.com,Ferizaj,Albania,2026-01-26,active
+166,Customer 166,user166@mail.com,Ferizaj,North Macedonia,2026-01-27,active
+169,Customer 169,user169@mail.com,Prishtina,Kosovo,2026-01-02,active
+171,Customer 171,user171@mail.com,Prishtina,North Macedonia,2026-01-04,active
+179,Customer 179,user179@mail.com,Peja,Kosovo,2026-01-12,active
+182,Customer 182,user182@mail.com,Vushtrri,Kosovo,2026-01-15,active
+193,Customer 193,user193@mail.com,Gjilan,Albania,2026-01-26,active
+195,Customer 195,user195@mail.com,Gjilan,Kosovo,2026-01-28,active

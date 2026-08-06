@@ -1,0 +1,6 @@
+file_name,ingested_at,size_bytes
+customers_raw.csv,2026-08-06T09:37:35.194035Z,13394
+products_raw.csv,2026-08-06T09:37:35.194035Z,8101
+orders_raw.csv,2026-08-06T09:37:35.194035Z,8474
+order_items_raw.csv,2026-08-06T09:37:35.194035Z,5460
+payments_raw.csv,2026-08-06T09:37:35.194035Z,9143

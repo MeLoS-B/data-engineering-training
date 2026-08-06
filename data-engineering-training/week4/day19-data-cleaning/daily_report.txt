@@ -1,0 +1,42 @@
+# Daily Report - Day 19 Data Cleaning Challenge
+
+Today I worked on:
+- Building a repeatable Python + SQLite data pipeline that cleanses, validates, and loads e-commerce operational data.
+- Implementing data quality rules, status mapping, and referential checks using standard Python library modules.
+- Loading normalized data into an SQLite relational database and writing SQL queries for financial reconciliation and business reporting.
+
+Bronze tasks completed:
+- Copied raw CSV files to `data/bronze/` to preserve original evidence.
+- Created `ingestion_manifest.csv` to track copy timestamps and file sizes.
+- Analyzed raw file defects, identifying missing fields, unrecognized statuses, negative counts, duplicate identifiers, and orphaned references.
+
+Silver tasks completed:
+- Implemented normalizer functions for trimming strings, standardizing titles, parsing date formats, and cleaning numeric strings.
+- Implemented validator functions for all five datasets (customers, products, orders, order items, payments) checking technical schemas, domain rules, uniqueness, and referential parent existences.
+- Managed duplicate resolution by keeping the first valid record and rejecting subsequent matches.
+- Separated records into `data/silver/` (clean) and `data/invalid/` (rejected with detailed semicolon-separated reason traces).
+
+Gold tasks completed:
+- Set up SQLite schema in `sql/setup.sql` with strict CHECK constraints, primary keys, and foreign keys.
+- Loaded Silver clean CSVs into `data/gold/trusted_data.db` transactionally using SQL parameters.
+- Reconciled expected totals against payments using aggregated CTEs to prevent fan-out duplication.
+- Exported 9 final report outputs as CSV files inside the `data/gold/` layer.
+
+What I understood better today:
+- The cascading impact of referential integrity: why dropping an invalid parent naturally drops all child records.
+- How to avoid the fan-out join multiplier in SQL by grouping separate tables before executing the join.
+- Staging data in Bronze, Silver, and Gold layers to separate raw evidence from final reporting-ready products.
+
+What was difficult:
+- Working without Pandas to structure and validate nested rows (which required writing procedural loops and tracking seen sets).
+- Deciding whether to reject or map unknown statuses and payment methods (such as PayPal), which we mapped to preserve transaction volume safely.
+
+One result I can explain and defend:
+- The payment reconciliation report classifications. By pre-aggregating expected line items and actual payments at the order level first, we correctly classified orders as Matched, Underpaid, Overpaid, Refunded, or Missing Payment without duplicating financial totals.
+
+What I need to practice more:
+- Automated scheduling for batch pipelines (using Prefect or Airflow).
+- Enhancing test coverage for multi-layer data pipelines.
+
+Did I use AI? If yes, how did I use it?
+- Yes. I used AI to clarify concepts and for help when I got stuck on issues where I couldn't find the solution myself.

@@ -1,0 +1,117 @@
+{
+    "customers": {
+        "raw_rows": 200,
+        "valid_rows": 64,
+        "invalid_rows": 136,
+        "duplicate_rows": 5,
+        "missing_required": {
+            "customer_id": 0,
+            "full_name": 7,
+            "email": 0,
+            "country": 49,
+            "created_at": 0
+        },
+        "error_rules": {
+            "customer status 'blocked' is invalid": 45,
+            "customer status 'unknown' is invalid": 47,
+            "country is required": 49,
+            "email is invalid": 19,
+            "full_name is required": 7,
+            "created_at is invalid": 6,
+            "duplicate customer_id '39'": 1,
+            "duplicate customer_id '79'": 1,
+            "duplicate customer_id '119'": 1,
+            "duplicate customer_id '159'": 1,
+            "duplicate customer_id '199'": 1
+        },
+        "cleaning_success_rate": 32.0
+    },
+    "products": {
+        "raw_rows": 180,
+        "valid_rows": 104,
+        "invalid_rows": 76,
+        "duplicate_rows": 5,
+        "missing_required": {
+            "product_id": 0,
+            "product_name": 0,
+            "category": 0
+        },
+        "error_rules": {
+            "product status 'invalid' is invalid": 55,
+            "stock_quantity cannot be negative": 10,
+            "price must be greater than zero": 9,
+            "price is invalid or missing": 7,
+            "duplicate product_id '34'": 1,
+            "duplicate product_id '69'": 1,
+            "duplicate product_id '104'": 1,
+            "duplicate product_id '139'": 1,
+            "duplicate product_id '174'": 1
+        },
+        "cleaning_success_rate": 57.78
+    },
+    "orders": {
+        "raw_rows": 220,
+        "valid_rows": 41,
+        "invalid_rows": 179,
+        "duplicate_rows": 4,
+        "missing_required": {
+            "order_id": 0,
+            "customer_id": 0,
+            "order_date": 0
+        },
+        "error_rules": {
+            "customer_id does not exist in trusted customers": 157,
+            "order status 'x' is invalid": 65,
+            "order_date is invalid or missing": 7,
+            "duplicate order_id '49'": 1,
+            "duplicate order_id '99'": 1,
+            "duplicate order_id '149'": 1,
+            "duplicate order_id '199'": 1
+        },
+        "orphan_records": 157,
+        "cleaning_success_rate": 18.64
+    },
+    "order_items": {
+        "raw_rows": 280,
+        "valid_rows": 22,
+        "invalid_rows": 258,
+        "duplicate_rows": 4,
+        "missing_required": {
+            "order_item_id": 0,
+            "order_id": 0,
+            "product_id": 0
+        },
+        "error_rules": {
+            "order_id does not exist in trusted orders": 234,
+            "product_id does not exist in trusted products": 126,
+            "quantity must be greater than zero": 22,
+            "duplicate order_item_id '59'": 1,
+            "duplicate order_item_id '119'": 1,
+            "duplicate order_item_id '179'": 1,
+            "duplicate order_item_id '239'": 1
+        },
+        "orphan_records": 360,
+        "cleaning_success_rate": 7.86
+    },
+    "payments": {
+        "raw_rows": 220,
+        "valid_rows": 37,
+        "invalid_rows": 183,
+        "duplicate_rows": 4,
+        "missing_required": {
+            "payment_id": 0,
+            "order_id": 0
+        },
+        "error_rules": {
+            "order_id does not exist in trusted orders": 180,
+            "amount must be greater than zero": 9,
+            "payment_date is invalid or missing": 8,
+            "duplicate payment_id '54'": 1,
+            "duplicate payment_id '109'": 1,
+            "duplicate payment_id '164'": 1,
+            "duplicate payment_id '219'": 1
+        },
+        "orphan_records": 180,
+        "cleaning_success_rate": 16.82
+    }
+}

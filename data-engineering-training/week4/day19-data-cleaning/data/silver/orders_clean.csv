@@ -1,0 +1,42 @@
+order_id,customer_id,order_date,status,shipping_city,payment_method,shipping_country
+6,56,2026-02-07,new,Gjilan,card,Kosovo
+11,89,2026-02-12,completed,Prizren,cash,Albania
+12,55,2026-02-13,completed,Gjakova,card,Kosovo
+20,153,2026-02-21,new,Ferizaj,paypal,Albania
+22,142,2026-02-23,completed,Prizren,cash,Kosovo
+28,42,2026-02-01,completed,Ferizaj,card,Kosovo
+37,37,2026-02-10,completed,Mitrovica,card,Kosovo
+57,4,2026-02-02,new,Mitrovica,cash,Albania
+59,58,2026-02-04,completed,Mitrovica,paypal,Albania
+61,43,2026-02-06,completed,Prishtina,paypal,Albania
+63,58,2026-02-08,completed,Ferizaj,paypal,Albania
+65,76,2026-02-10,completed,Gjakova,cash,North Macedonia
+76,76,2026-02-21,completed,Prishtina,paypal,North Macedonia
+77,37,2026-02-22,completed,Prizren,cash,Kosovo
+78,89,2026-02-23,completed,Peja,cash,Albania
+80,141,2026-02-25,completed,Peja,,Kosovo
+81,127,2026-02-26,completed,Vushtrri,card,Kosovo
+91,166,2026-02-08,new,Prishtina,paypal,North Macedonia
+98,142,2026-02-15,new,Gjilan,cash,Kosovo
+107,156,2026-02-24,new,Vushtrri,paypal,North Macedonia
+113,95,2026-02-02,completed,Gjilan,paypal,North Macedonia
+114,182,2026-02-03,completed,Gjilan,card,Kosovo
+117,134,2026-02-06,new,Prishtina,cash,North Macedonia
+122,161,2026-02-11,new,Mitrovica,card,North Macedonia
+130,9,2026-02-19,new,Prishtina,card,North Macedonia
+135,43,2026-02-24,completed,Prishtina,cash,Albania
+136,166,2026-02-25,completed,Mitrovica,cash,North Macedonia
+138,86,2026-02-27,completed,Gjilan,card,Albania
+146,147,2026-02-07,completed,Gjilan,paypal,Kosovo
+159,127,2026-02-20,completed,Prishtina,cash,Kosovo
+166,87,2026-02-27,completed,Prizren,cash,North Macedonia
+170,24,2026-02-03,completed,Ferizaj,paypal,Albania
+184,57,2026-02-17,new,Ferizaj,paypal,Kosovo
+186,6,2026-02-19,new,Gjakova,cash,Albania
+187,83,2026-02-20,completed,Gjakova,card,North Macedonia
+188,161,2026-02-21,completed,Prizren,cash,North Macedonia
+189,57,2026-02-22,new,Prizren,paypal,Kosovo
+193,147,2026-02-26,completed,Ferizaj,card,Kosovo
+207,134,2026-02-12,completed,Prizren,card,North Macedonia
+213,89,2026-02-18,completed,Gjilan,paypal,Albania
+214,127,2026-02-19,new,Prishtina,cash,Kosovo

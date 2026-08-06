@@ -1,0 +1,137 @@
+source_file,source_row_number,record_key,invalid_reasons,processed_at,raw_customer_id,raw_full_name,raw_email,raw_city,raw_country,raw_created_at,raw_status
+customers_raw.csv,2,1,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,1,Customer 1,user1@mail.com,Ferizaj,Albania,2026-01-02,blocked
+customers_raw.csv,3,2,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,2,Customer 2,user2@mail.com,Prishtina,Kosovo,2026-01-03,unknown
+customers_raw.csv,4,3,country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,3,Customer 3,user3@mail.com,prishtina,,2026-01-04,unknown
+customers_raw.csv,6,5,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,5,Customer 5,user5@mail.com,prishtina,North Macedonia,2026-01-06,blocked
+customers_raw.csv,9,8,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,8,Customer 8,user8@mail.com,prishtina,Albania,2026-01-09,unknown
+customers_raw.csv,11,10,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,10,Customer 10,user10@mail.com,Peja,Kosovo,2026-01-11,unknown
+customers_raw.csv,12,11,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,11,Customer 11,user11@mail.com,Prizren,,2026-01-12,blocked
+customers_raw.csv,13,12,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,12,Customer 12,user12@mail.com,Prizren,Kosovo,2026-01-13,unknown
+customers_raw.csv,15,14,country is required,2026-08-06T09:37:35.194035Z,14,Customer 14,user14@mail.com,Peja,,2026-01-15,ACTIVE
+customers_raw.csv,16,15,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,15,Customer 15,user15@mail.com,Vushtrri,Kosovo,2026-01-16,unknown
+customers_raw.csv,17,16,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,16,Customer 16,user16@mail.com,Prishtina,Albania,2026-01-17,blocked
+customers_raw.csv,19,18,email is invalid,2026-08-06T09:37:35.194035Z,18,Customer 18,user18 mail.com, Gjakova ,North Macedonia,2026-01-19,Active
+customers_raw.csv,21,20,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,20,Customer 20,user20@mail.com,Peja,Kosovo,2026-01-21,unknown
+customers_raw.csv,23,22,email is invalid; country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,22,Customer 22,user22mail.com, Gjakova ,,2026-01-23,unknown
+customers_raw.csv,24,23,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,23,Customer 23,user23@mail.com,prishtina,Kosovo,2026-01-24,unknown
+customers_raw.csv,26,25,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,25,Customer 25,user25@mail.com,Prizren,North Macedonia,2026-01-26,blocked
+customers_raw.csv,27,26,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,26,Customer 26,user26@mail.com,Prishtina,Kosovo,2026-01-27,unknown
+customers_raw.csv,28,27,full_name is required; country is required,2026-08-06T09:37:35.194035Z,27,,user27@mail.com,Ferizaj,,2026-01-28,Active
+customers_raw.csv,30,29,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,29,Customer 29,user29@mail.com,prishtina,,2026-01-02,blocked
+customers_raw.csv,32,31,country is required; created_at is invalid; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,31,Customer 31,user31@mail.com, Gjakova ,,2026-15-99,blocked
+customers_raw.csv,33,32,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,32,Customer 32,user32@mail.com,Ferizaj,Kosovo,2026-01-05,blocked
+customers_raw.csv,34,33,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,33,Customer 33,user33@mail.com,Ferizaj,Albania,2026-01-06,unknown
+customers_raw.csv,36,35,country is required,2026-08-06T09:37:35.194035Z,35,Customer 35,user35@mail.com,Peja,,2026-01-08,active
+customers_raw.csv,37,36,email is invalid; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,36,Customer 36,user36 mail.com,Peja,North Macedonia,2026-01-09,blocked
+customers_raw.csv,39,38,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,38,Customer 38,user38@mail.com, Gjakova ,North Macedonia,2026-01-11,unknown
+customers_raw.csv,40,39,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,39,Customer 39,user39@mail.com,Gjilan,Albania,2026-01-12,blocked
+customers_raw.csv,41,39,country is required; customer status 'blocked' is invalid; duplicate customer_id '39',2026-08-06T09:37:35.194035Z,39,Customer 40,user40@mail.com,Vushtrri,,2026-01-13,blocked
+customers_raw.csv,45,44,email is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,44,Customer 44,user44mail.com,Prishtina,North Macedonia,2026-01-17,unknown
+customers_raw.csv,46,45,country is required,2026-08-06T09:37:35.194035Z,45,Customer 45,user45@mail.com,Prizren,,2026-01-18,Active
+customers_raw.csv,47,46,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,46,Customer 46,user46@mail.com,Prishtina,Albania,2026-01-19,blocked
+customers_raw.csv,48,47,country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,47,Customer 47,user47@mail.com,Vushtrri,,2026-01-20,unknown
+customers_raw.csv,49,48,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,48,Customer 48,user48@mail.com,Ferizaj,Albania,2026-01-21,unknown
+customers_raw.csv,50,49,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,49,Customer 49,user49@mail.com,Prishtina,North Macedonia,2026-01-22,unknown
+customers_raw.csv,51,50,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,50,Customer 50,user50@mail.com,Mitrovica,North Macedonia,2026-01-23,blocked
+customers_raw.csv,52,51,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,51,Customer 51,user51@mail.com,Mitrovica,Kosovo,2026-01-24,blocked
+customers_raw.csv,54,53,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,53,Customer 53,user53@mail.com,prishtina,Albania,2026-01-26,blocked
+customers_raw.csv,55,54,full_name is required; email is invalid,2026-08-06T09:37:35.194035Z,54,,user54 mail.com,Prizren,Kosovo,2026-01-27,Active
+customers_raw.csv,60,59,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,59,Customer 59,user59@mail.com,Ferizaj,,2026-01-04,blocked
+customers_raw.csv,61,60,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,60,Customer 60,user60@mail.com,prishtina,Kosovo,2026-01-05,blocked
+customers_raw.csv,62,61,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,61,Customer 61,user61@mail.com, Gjakova ,North Macedonia,2026-01-06,blocked
+customers_raw.csv,63,62,created_at is invalid,2026-08-06T09:37:35.194035Z,62,Customer 62,user62@mail.com,Gjilan,Kosovo,2026-15-99,active
+customers_raw.csv,64,63,country is required,2026-08-06T09:37:35.194035Z,63,Customer 63,user63@mail.com,prishtina,,2026-01-08,Active
+customers_raw.csv,65,64,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,64,Customer 64,user64@mail.com, Gjakova ,Albania,2026-01-09,unknown
+customers_raw.csv,66,65,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,65,Customer 65,user65@mail.com,Prishtina,Albania,2026-01-10,unknown
+customers_raw.csv,67,66,email is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,66,Customer 66,user66mail.com,Ferizaj,Albania,2026-01-11,unknown
+customers_raw.csv,68,67,country is required,2026-08-06T09:37:35.194035Z,67,Customer 67,user67@mail.com,Prishtina,,2026-01-12,ACTIVE
+customers_raw.csv,69,68,country is required,2026-08-06T09:37:35.194035Z,68,Customer 68,user68@mail.com,Gjilan,,2026-01-13,active
+customers_raw.csv,70,69,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,69,Customer 69,user69@mail.com,Ferizaj,Albania,2026-01-14,unknown
+customers_raw.csv,71,70,country is required,2026-08-06T09:37:35.194035Z,70,Customer 70,user70@mail.com,Vushtrri,,2026-01-15,active
+customers_raw.csv,72,71,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,71,Customer 71,user71@mail.com,Peja,Albania,2026-01-16,blocked
+customers_raw.csv,73,72,email is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,72,Customer 72,user72 mail.com,Peja,Albania,2026-01-17,unknown
+customers_raw.csv,74,73,country is required,2026-08-06T09:37:35.194035Z,73,Customer 73,user73@mail.com, Gjakova ,,2026-01-18,ACTIVE
+customers_raw.csv,75,74,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,74,Customer 74,user74@mail.com,Prishtina,,2026-01-19,blocked
+customers_raw.csv,76,75,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,75,Customer 75,user75@mail.com,Gjilan,Albania,2026-01-20,unknown
+customers_raw.csv,79,78,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,78,Customer 78,user78@mail.com,prishtina,Albania,2026-01-23,blocked
+customers_raw.csv,80,79,country is required,2026-08-06T09:37:35.194035Z,79,Customer 79,user79@mail.com,Peja,,2026-01-24,active
+customers_raw.csv,81,79,customer status 'blocked' is invalid; duplicate customer_id '79',2026-08-06T09:37:35.194035Z,79,Customer 80,user80@mail.com, Gjakova ,Kosovo,2026-01-25,blocked
+customers_raw.csv,82,81,full_name is required,2026-08-06T09:37:35.194035Z,81,,user81@mail.com,Ferizaj,Kosovo,2026-01-26,ACTIVE
+customers_raw.csv,83,82,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,82,Customer 82,user82@mail.com,Mitrovica,Albania,2026-01-27,blocked
+customers_raw.csv,85,84,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,84,Customer 84,user84@mail.com,prishtina,North Macedonia,2026-01-01,blocked
+customers_raw.csv,89,88,email is invalid; country is required,2026-08-06T09:37:35.194035Z,88,Customer 88,user88mail.com, Gjakova ,,2026-01-05,active
+customers_raw.csv,91,90,email is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,90,Customer 90,user90 mail.com,Prishtina,Kosovo,2026-01-07,unknown
+customers_raw.csv,94,93,country is required; created_at is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,93,Customer 93,user93@mail.com,Peja,,2026-15-99,unknown
+customers_raw.csv,95,94,country is required,2026-08-06T09:37:35.194035Z,94,Customer 94,user94@mail.com,Peja,,2026-01-11,Active
+customers_raw.csv,97,96,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,96,Customer 96,user96@mail.com,Prishtina,,2026-01-13,blocked
+customers_raw.csv,98,97,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,97,Customer 97,user97@mail.com,Vushtrri,North Macedonia,2026-01-14,unknown
+customers_raw.csv,99,98,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,98,Customer 98,user98@mail.com,Prizren,Albania,2026-01-15,unknown
+customers_raw.csv,100,99,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,99,Customer 99,user99@mail.com,Vushtrri,Kosovo,2026-01-16,blocked
+customers_raw.csv,102,101,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,101,Customer 101,user101@mail.com,Prizren,Albania,2026-01-18,blocked
+customers_raw.csv,106,105,country is required,2026-08-06T09:37:35.194035Z,105,Customer 105,user105@mail.com,Peja,,2026-01-22,ACTIVE
+customers_raw.csv,107,106,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,106,Customer 106,user106@mail.com,prishtina,North Macedonia,2026-01-23,unknown
+customers_raw.csv,108,107,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,107,Customer 107,user107@mail.com,Prishtina,Kosovo,2026-01-24,blocked
+customers_raw.csv,109,108,full_name is required; email is invalid,2026-08-06T09:37:35.194035Z,108,,user108 mail.com,Ferizaj,Albania,2026-01-25,Active
+customers_raw.csv,110,109,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,109,Customer 109,user109@mail.com, Gjakova ,North Macedonia,2026-01-26,unknown
+customers_raw.csv,111,110,email is invalid; country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,110,Customer 110,user110mail.com,Peja,,2026-01-27,unknown
+customers_raw.csv,113,112,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,112,Customer 112,user112@mail.com,Mitrovica,Kosovo,2026-01-01,blocked
+customers_raw.csv,114,113,country is required,2026-08-06T09:37:35.194035Z,113,Customer 113,user113@mail.com, Gjakova ,,2026-01-02,ACTIVE
+customers_raw.csv,116,115,country is required,2026-08-06T09:37:35.194035Z,115,Customer 115,user115@mail.com,Peja,,2026-01-04,ACTIVE
+customers_raw.csv,117,116,country is required,2026-08-06T09:37:35.194035Z,116,Customer 116,user116@mail.com,Prizren,,2026-01-05,active
+customers_raw.csv,118,117,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,117,Customer 117,user117@mail.com,Gjilan,Albania,2026-01-06,blocked
+customers_raw.csv,119,118,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,118,Customer 118,user118@mail.com,Peja,Kosovo,2026-01-07,blocked
+customers_raw.csv,121,119,customer status 'unknown' is invalid; duplicate customer_id '119',2026-08-06T09:37:35.194035Z,119,Customer 120,user120@mail.com,Prizren,North Macedonia,2026-01-09,unknown
+customers_raw.csv,122,121,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,121,Customer 121,user121@mail.com,Mitrovica,,2026-01-10,blocked
+customers_raw.csv,123,122,country is required,2026-08-06T09:37:35.194035Z,122,Customer 122,user122@mail.com,Peja,,2026-01-11,Active
+customers_raw.csv,124,123,country is required,2026-08-06T09:37:35.194035Z,123,Customer 123,user123@mail.com,prishtina,,2026-01-12,ACTIVE
+customers_raw.csv,125,124,created_at is invalid; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,124,Customer 124,user124@mail.com,Ferizaj,North Macedonia,2026-15-99,blocked
+customers_raw.csv,127,126,email is invalid; country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,126,Customer 126,user126 mail.com,Vushtrri,,2026-01-15,unknown
+customers_raw.csv,131,130,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,130,Customer 130,user130@mail.com,Gjilan,Albania,2026-01-19,blocked
+customers_raw.csv,133,132,email is invalid,2026-08-06T09:37:35.194035Z,132,Customer 132,user132mail.com,Vushtrri,North Macedonia,2026-01-21,Active
+customers_raw.csv,134,133,country is required,2026-08-06T09:37:35.194035Z,133,Customer 133,user133@mail.com,prishtina,,2026-01-22,ACTIVE
+customers_raw.csv,136,135,full_name is required,2026-08-06T09:37:35.194035Z,135,,user135@mail.com,Gjilan,Kosovo,2026-01-24,ACTIVE
+customers_raw.csv,137,136,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,136,Customer 136,user136@mail.com,Gjilan,Kosovo,2026-01-25,unknown
+customers_raw.csv,141,140,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,140,Customer 140,user140@mail.com,Prizren,Kosovo,2026-01-01,unknown
+customers_raw.csv,144,143,country is required,2026-08-06T09:37:35.194035Z,143,Customer 143,user143@mail.com,Peja,,2026-01-04,Active
+customers_raw.csv,145,144,email is invalid,2026-08-06T09:37:35.194035Z,144,Customer 144,user144 mail.com,Vushtrri,Albania,2026-01-05,Active
+customers_raw.csv,149,148,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,148,Customer 148,user148@mail.com,Vushtrri,Albania,2026-01-09,unknown
+customers_raw.csv,150,149,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,149,Customer 149,user149@mail.com, Gjakova ,Albania,2026-01-10,blocked
+customers_raw.csv,151,150,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,150,Customer 150,user150@mail.com,prishtina,North Macedonia,2026-01-11,blocked
+customers_raw.csv,152,151,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,151,Customer 151,user151@mail.com,Vushtrri,North Macedonia,2026-01-12,unknown
+customers_raw.csv,155,154,email is invalid; country is required,2026-08-06T09:37:35.194035Z,154,Customer 154,user154mail.com,Mitrovica,,2026-01-15,ACTIVE
+customers_raw.csv,156,155,created_at is invalid,2026-08-06T09:37:35.194035Z,155,Customer 155,user155@mail.com,Prizren,Kosovo,2026-15-99,ACTIVE
+customers_raw.csv,158,157,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,157,Customer 157,user157@mail.com,Prishtina,Kosovo,2026-01-18,blocked
+customers_raw.csv,159,158,country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,158,Customer 158,user158@mail.com,Vushtrri,,2026-01-19,unknown
+customers_raw.csv,160,159,country is required,2026-08-06T09:37:35.194035Z,159,Customer 159,user159@mail.com,Peja,,2026-01-20,ACTIVE
+customers_raw.csv,161,159,duplicate customer_id '159',2026-08-06T09:37:35.194035Z,159,Customer 160,user160@mail.com, Gjakova ,Albania,2026-01-21,active
+customers_raw.csv,163,162,full_name is required; email is invalid; country is required,2026-08-06T09:37:35.194035Z,162,,user162 mail.com,Gjilan,,2026-01-23,Active
+customers_raw.csv,164,163,country is required,2026-08-06T09:37:35.194035Z,163,Customer 163,user163@mail.com,Vushtrri,,2026-01-24,active
+customers_raw.csv,165,164,country is required,2026-08-06T09:37:35.194035Z,164,Customer 164,user164@mail.com,Prishtina,,2026-01-25,active
+customers_raw.csv,168,167,country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,167,Customer 167,user167@mail.com, Gjakova ,,2026-01-28,unknown
+customers_raw.csv,169,168,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,168,Customer 168,user168@mail.com,Peja,Albania,2026-01-01,unknown
+customers_raw.csv,171,170,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,170,Customer 170,user170@mail.com,prishtina,Albania,2026-01-03,blocked
+customers_raw.csv,173,172,country is required,2026-08-06T09:37:35.194035Z,172,Customer 172,user172@mail.com,Gjilan,,2026-01-05,active
+customers_raw.csv,174,173,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,173,Customer 173,user173@mail.com,prishtina,Albania,2026-01-06,unknown
+customers_raw.csv,175,174,country is required; customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,174,Customer 174,user174@mail.com,Mitrovica,,2026-01-07,blocked
+customers_raw.csv,176,175,country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,175,Customer 175,user175@mail.com,Prizren,,2026-01-08,unknown
+customers_raw.csv,177,176,email is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,176,Customer 176,user176mail.com,Prizren,Kosovo,2026-01-09,unknown
+customers_raw.csv,178,177,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,177,Customer 177,user177@mail.com,Mitrovica,Albania,2026-01-10,unknown
+customers_raw.csv,179,178,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,178,Customer 178,user178@mail.com,Vushtrri,Kosovo,2026-01-11,unknown
+customers_raw.csv,181,180,email is invalid,2026-08-06T09:37:35.194035Z,180,Customer 180,user180 mail.com,Prishtina,Albania,2026-01-13,Active
+customers_raw.csv,182,181,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,181,Customer 181,user181@mail.com,prishtina,North Macedonia,2026-01-14,blocked
+customers_raw.csv,184,183,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,183,Customer 183,user183@mail.com,Vushtrri,Albania,2026-01-16,blocked
+customers_raw.csv,185,184,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,184,Customer 184,user184@mail.com,Gjilan,Kosovo,2026-01-17,blocked
+customers_raw.csv,186,185,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,185,Customer 185,user185@mail.com,prishtina,Kosovo,2026-01-18,unknown
+customers_raw.csv,187,186,created_at is invalid,2026-08-06T09:37:35.194035Z,186,Customer 186,user186@mail.com,prishtina,North Macedonia,2026-15-99,Active
+customers_raw.csv,188,187,country is required,2026-08-06T09:37:35.194035Z,187,Customer 187,user187@mail.com,prishtina,,2026-01-20,active
+customers_raw.csv,189,188,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,188,Customer 188,user188@mail.com,Peja,Albania,2026-01-21,blocked
+customers_raw.csv,190,189,full_name is required,2026-08-06T09:37:35.194035Z,189,,user189@mail.com, Gjakova ,North Macedonia,2026-01-22,ACTIVE
+customers_raw.csv,191,190,country is required,2026-08-06T09:37:35.194035Z,190,Customer 190,user190@mail.com, Gjakova ,,2026-01-23,ACTIVE
+customers_raw.csv,192,191,customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,191,Customer 191,user191@mail.com,Peja,Kosovo,2026-01-24,unknown
+customers_raw.csv,193,192,country is required,2026-08-06T09:37:35.194035Z,192,Customer 192,user192@mail.com,Prizren,,2026-01-25,Active
+customers_raw.csv,195,194,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,194,Customer 194,user194@mail.com, Gjakova ,Kosovo,2026-01-27,blocked
+customers_raw.csv,197,196,country is required; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,196,Customer 196,user196@mail.com, Gjakova ,,2026-01-01,unknown
+customers_raw.csv,198,197,customer status 'blocked' is invalid,2026-08-06T09:37:35.194035Z,197,Customer 197,user197@mail.com,Gjilan,North Macedonia,2026-01-02,blocked
+customers_raw.csv,199,198,email is invalid; customer status 'unknown' is invalid,2026-08-06T09:37:35.194035Z,198,Customer 198,user198mail.com, Gjakova ,Kosovo,2026-01-03,unknown
+customers_raw.csv,200,199,country is required,2026-08-06T09:37:35.194035Z,199,Customer 199,user199@mail.com,Peja,,2026-01-04,ACTIVE
+customers_raw.csv,201,199,duplicate customer_id '199',2026-08-06T09:37:35.194035Z,199,Customer 200,user200@mail.com, Gjakova ,Kosovo,2026-01-05,Active

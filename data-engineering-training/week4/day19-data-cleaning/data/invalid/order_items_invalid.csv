@@ -1,0 +1,259 @@
+source_file,source_row_number,record_key,invalid_reasons,processed_at,raw_order_item_id,raw_order_id,raw_product_id,raw_quantity,raw_unit_price
+order_items_raw.csv,2,1,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,1,148,16,4,149.31
+order_items_raw.csv,3,2,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,2,188,127,1,225.99
+order_items_raw.csv,4,3,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,3,136,138,1,71.51
+order_items_raw.csv,5,4,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,4,23,58,2,311.44
+order_items_raw.csv,6,5,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,5,27,80,2,128.98
+order_items_raw.csv,7,6,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,6,5,25,1,463.52
+order_items_raw.csv,8,7,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,7,67,5,2,419.48
+order_items_raw.csv,9,8,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,8,119,134,5,122.99
+order_items_raw.csv,10,9,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,9,27,90,4,435.42
+order_items_raw.csv,11,10,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,10,12,70,2,65.91
+order_items_raw.csv,12,11,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,11,150,129,4,381.95
+order_items_raw.csv,13,12,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,12,32,32,1,205.8
+order_items_raw.csv,14,13,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,13,139,152,2,117.58
+order_items_raw.csv,15,14,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,14,38,172,2,288.56
+order_items_raw.csv,16,15,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,15,43,5,4,469.1
+order_items_raw.csv,17,16,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,16,178,108,4,300.53
+order_items_raw.csv,19,18,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,18,199,93,1,172.58
+order_items_raw.csv,20,19,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,19,215,86,2,359.19
+order_items_raw.csv,21,20,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,20,206,83,0,408.45
+order_items_raw.csv,22,21,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,21,14,84,5,261.1
+order_items_raw.csv,23,22,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,22,64,109,3,333.24
+order_items_raw.csv,24,23,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,23,94,28,1,267.75
+order_items_raw.csv,25,24,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,24,84,111,1,104.39
+order_items_raw.csv,26,25,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,25,58,36,1,213.26
+order_items_raw.csv,27,26,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,26,199,117,4,318.44
+order_items_raw.csv,28,27,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,27,9,165,1,312.36
+order_items_raw.csv,29,28,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,28,70,161,5,273.42
+order_items_raw.csv,30,29,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,29,160,26,1,129.04
+order_items_raw.csv,31,30,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,30,4,112,5,122.14
+order_items_raw.csv,32,31,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,31,74,29,1,156.18
+order_items_raw.csv,33,32,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,32,31,16,2,299.17
+order_items_raw.csv,34,33,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,33,69,22,-2,235.88
+order_items_raw.csv,35,34,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,34,38,113,5,66.34
+order_items_raw.csv,36,35,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,35,227,76,2,458.22
+order_items_raw.csv,37,36,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,36,74,71,5,125.48
+order_items_raw.csv,38,37,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,37,190,140,1,147.15
+order_items_raw.csv,39,38,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,38,157,178,4,287.24
+order_items_raw.csv,40,39,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,39,52,141,4,356.63
+order_items_raw.csv,41,40,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,40,229,141,0,155.33
+order_items_raw.csv,42,41,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,41,121,80,4,20.33
+order_items_raw.csv,44,43,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,43,150,102,4,10.88
+order_items_raw.csv,45,44,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,44,42,62,3,165.36
+order_items_raw.csv,46,45,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,45,126,70,3,145.99
+order_items_raw.csv,47,46,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,46,76,15,2,387.2
+order_items_raw.csv,48,47,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,47,142,18,2,304.93
+order_items_raw.csv,51,50,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,50,134,58,1,494.71
+order_items_raw.csv,53,52,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,52,173,52,2,310.07
+order_items_raw.csv,54,53,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,53,211,133,3,52.05
+order_items_raw.csv,55,54,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,54,69,162,4,355.73
+order_items_raw.csv,56,55,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,55,106,27,2,7.14
+order_items_raw.csv,57,56,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,56,150,31,5,251.45
+order_items_raw.csv,58,57,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,57,39,107,5,425.72
+order_items_raw.csv,59,58,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,58,224,160,3,305.63
+order_items_raw.csv,60,59,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,59,219,116,4,347.86
+order_items_raw.csv,61,59,product_id does not exist in trusted products; quantity must be greater than zero; duplicate order_item_id '59',2026-08-06T09:37:35.194035Z,59,186,91,0,149.99
+order_items_raw.csv,63,62,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,62,2,128,3,193.43
+order_items_raw.csv,64,63,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,63,48,138,3,155.5
+order_items_raw.csv,65,64,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,64,112,148,2,191.61
+order_items_raw.csv,66,65,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,65,23,85,2,165.31
+order_items_raw.csv,67,66,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,66,215,63,-2,479.59
+order_items_raw.csv,68,67,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,67,110,3,2,17.66
+order_items_raw.csv,69,68,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,68,145,128,3,153.41
+order_items_raw.csv,70,69,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,69,199,80,5,271.56
+order_items_raw.csv,71,70,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,70,133,133,4,364.92
+order_items_raw.csv,72,71,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,71,100,119,4,182.07
+order_items_raw.csv,73,72,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,72,174,90,5,229.27
+order_items_raw.csv,74,73,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,73,174,18,1,265.0
+order_items_raw.csv,75,74,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,74,105,96,1,252.95
+order_items_raw.csv,76,75,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,75,147,40,5,440.52
+order_items_raw.csv,77,76,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,76,125,103,4,222.88
+order_items_raw.csv,78,77,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,77,151,88,5,347.33
+order_items_raw.csv,79,78,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,78,44,93,1,162.45
+order_items_raw.csv,80,79,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,79,212,80,1,258.73
+order_items_raw.csv,81,80,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,80,168,76,0,346.49
+order_items_raw.csv,82,81,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,81,228,108,5,317.4
+order_items_raw.csv,83,82,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,82,75,131,5,107.86
+order_items_raw.csv,84,83,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,83,106,47,2,34.78
+order_items_raw.csv,85,84,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,84,155,28,5,179.83
+order_items_raw.csv,86,85,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,85,178,106,1,10.31
+order_items_raw.csv,87,86,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,86,79,182,1,346.9
+order_items_raw.csv,88,87,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,87,78,102,1,421.87
+order_items_raw.csv,89,88,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,88,4,172,5,19.62
+order_items_raw.csv,90,89,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,89,128,142,2,285.68
+order_items_raw.csv,91,90,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,90,132,37,5,289.36
+order_items_raw.csv,92,91,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,91,155,32,4,76.95
+order_items_raw.csv,93,92,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,92,195,131,5,57.79
+order_items_raw.csv,95,94,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,94,211,120,4,308.44
+order_items_raw.csv,96,95,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,95,167,4,1,343.86
+order_items_raw.csv,97,96,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,96,83,37,5,359.15
+order_items_raw.csv,98,97,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,97,71,44,3,21.28
+order_items_raw.csv,99,98,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,98,220,150,1,36.2
+order_items_raw.csv,100,99,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,99,116,160,-2,195.9
+order_items_raw.csv,101,100,product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,100,57,102,0,293.42
+order_items_raw.csv,103,102,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,102,58,12,2,83.9
+order_items_raw.csv,104,103,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,103,219,45,5,160.82
+order_items_raw.csv,106,105,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,105,18,63,4,340.25
+order_items_raw.csv,109,108,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,108,92,98,2,97.34
+order_items_raw.csv,110,109,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,109,102,144,3,184.65
+order_items_raw.csv,111,110,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,110,137,99,3,171.26
+order_items_raw.csv,112,111,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,111,32,109,1,413.78
+order_items_raw.csv,113,112,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,112,142,63,3,196.74
+order_items_raw.csv,114,113,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,113,73,89,4,122.4
+order_items_raw.csv,115,114,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,114,72,171,1,17.52
+order_items_raw.csv,116,115,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,115,62,181,2,69.28
+order_items_raw.csv,117,116,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,116,70,140,2,418.33
+order_items_raw.csv,118,117,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,117,143,114,2,236.19
+order_items_raw.csv,119,118,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,118,41,95,2,179.69
+order_items_raw.csv,120,119,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,119,97,162,4,479.41
+order_items_raw.csv,121,119,product_id does not exist in trusted products; quantity must be greater than zero; duplicate order_item_id '119',2026-08-06T09:37:35.194035Z,119,77,122,0,254.89
+order_items_raw.csv,122,121,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,121,220,116,2,339.27
+order_items_raw.csv,123,122,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,122,153,113,3,295.84
+order_items_raw.csv,124,123,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,123,137,64,3,205.05
+order_items_raw.csv,125,124,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,124,55,33,5,436.83
+order_items_raw.csv,126,125,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,125,174,132,1,50.28
+order_items_raw.csv,128,127,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,127,38,80,5,12.43
+order_items_raw.csv,129,128,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,128,178,46,1,389.19
+order_items_raw.csv,130,129,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,129,83,49,2,333.06
+order_items_raw.csv,131,130,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,130,18,144,1,457.36
+order_items_raw.csv,132,131,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,131,195,77,5,100.45
+order_items_raw.csv,133,132,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,132,23,58,-2,147.84
+order_items_raw.csv,134,133,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,133,73,92,4,204.67
+order_items_raw.csv,135,134,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,134,199,161,4,441.96
+order_items_raw.csv,136,135,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,135,71,46,2,19.64
+order_items_raw.csv,137,136,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,136,230,106,3,17.51
+order_items_raw.csv,138,137,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,137,64,103,4,179.3
+order_items_raw.csv,139,138,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,138,47,75,1,62.04
+order_items_raw.csv,140,139,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,139,188,57,5,357.73
+order_items_raw.csv,141,140,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,140,104,11,0,306.22
+order_items_raw.csv,142,141,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,141,51,78,4,82.31
+order_items_raw.csv,143,142,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,142,142,80,1,316.58
+order_items_raw.csv,144,143,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,143,145,59,2,287.23
+order_items_raw.csv,145,144,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,144,66,112,5,336.72
+order_items_raw.csv,146,145,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,145,90,1,5,60.38
+order_items_raw.csv,148,147,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,147,63,175,1,60.04
+order_items_raw.csv,149,148,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,148,54,89,3,376.01
+order_items_raw.csv,151,150,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,150,213,57,5,144.18
+order_items_raw.csv,152,151,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,151,90,109,1,224.07
+order_items_raw.csv,153,152,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,152,178,129,3,370.61
+order_items_raw.csv,154,153,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,153,131,14,4,339.91
+order_items_raw.csv,155,154,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,154,110,173,2,258.38
+order_items_raw.csv,156,155,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,155,126,49,2,26.63
+order_items_raw.csv,157,156,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,156,67,45,5,275.47
+order_items_raw.csv,158,157,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,157,140,67,2,128.6
+order_items_raw.csv,159,158,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,158,44,92,1,176.88
+order_items_raw.csv,160,159,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,159,52,163,1,158.72
+order_items_raw.csv,161,160,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,160,176,181,0,245.79
+order_items_raw.csv,162,161,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,161,61,181,4,124.65
+order_items_raw.csv,163,162,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,162,178,114,5,70.89
+order_items_raw.csv,164,163,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,163,179,77,3,71.03
+order_items_raw.csv,165,164,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,164,151,145,2,124.18
+order_items_raw.csv,166,165,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,165,141,109,-2,381.46
+order_items_raw.csv,167,166,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,166,174,171,2,81.62
+order_items_raw.csv,168,167,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,167,215,104,4,416.43
+order_items_raw.csv,169,168,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,168,177,75,1,11.12
+order_items_raw.csv,170,169,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,169,53,12,4,34.86
+order_items_raw.csv,171,170,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,170,78,51,3,59.74
+order_items_raw.csv,172,171,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,171,115,29,3,84.85
+order_items_raw.csv,173,172,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,172,120,146,4,184.67
+order_items_raw.csv,174,173,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,173,143,19,2,27.56
+order_items_raw.csv,176,175,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,175,190,145,3,135.89
+order_items_raw.csv,177,176,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,176,112,126,4,98.96
+order_items_raw.csv,178,177,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,177,83,3,5,182.85
+order_items_raw.csv,179,178,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,178,165,74,1,315.73
+order_items_raw.csv,180,179,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,179,168,63,3,43.68
+order_items_raw.csv,181,179,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero; duplicate order_item_id '179',2026-08-06T09:37:35.194035Z,179,7,102,0,420.59
+order_items_raw.csv,182,181,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,181,95,48,3,481.2
+order_items_raw.csv,183,182,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,182,217,175,5,88.39
+order_items_raw.csv,184,183,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,183,191,158,3,166.7
+order_items_raw.csv,185,184,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,184,166,92,2,163.48
+order_items_raw.csv,186,185,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,185,35,142,3,460.26
+order_items_raw.csv,187,186,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,186,62,15,3,25.42
+order_items_raw.csv,188,187,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,187,206,161,5,460.93
+order_items_raw.csv,189,188,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,188,13,56,4,249.72
+order_items_raw.csv,191,190,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,190,149,161,5,44.72
+order_items_raw.csv,192,191,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,191,42,36,2,224.38
+order_items_raw.csv,193,192,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,192,23,11,4,426.08
+order_items_raw.csv,194,193,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,193,49,56,4,362.86
+order_items_raw.csv,195,194,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,194,9,157,1,428.39
+order_items_raw.csv,196,195,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,195,109,37,5,145.21
+order_items_raw.csv,197,196,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,196,132,182,1,213.5
+order_items_raw.csv,198,197,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,197,17,113,3,9.35
+order_items_raw.csv,199,198,product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,198,186,43,-2,192.52
+order_items_raw.csv,200,199,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,199,114,145,1,339.25
+order_items_raw.csv,201,200,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,200,51,121,0,47.1
+order_items_raw.csv,202,201,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,201,133,118,3,217.05
+order_items_raw.csv,203,202,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,202,161,40,5,487.31
+order_items_raw.csv,204,203,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,203,159,21,5,406.52
+order_items_raw.csv,205,204,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,204,186,174,1,169.11
+order_items_raw.csv,206,205,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,205,145,147,3,213.47
+order_items_raw.csv,207,206,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,206,124,169,3,325.44
+order_items_raw.csv,208,207,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,207,222,88,3,267.55
+order_items_raw.csv,209,208,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,208,218,49,1,115.13
+order_items_raw.csv,210,209,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,209,177,22,4,77.72
+order_items_raw.csv,211,210,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,210,96,143,5,292.48
+order_items_raw.csv,212,211,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,211,93,136,4,123.92
+order_items_raw.csv,213,212,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,212,102,67,4,61.56
+order_items_raw.csv,214,213,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,213,228,52,2,276.32
+order_items_raw.csv,216,215,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,215,136,172,2,129.51
+order_items_raw.csv,217,216,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,216,59,142,4,231.79
+order_items_raw.csv,218,217,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,217,147,179,5,60.94
+order_items_raw.csv,219,218,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,218,151,146,5,44.71
+order_items_raw.csv,220,219,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,219,174,19,4,401.17
+order_items_raw.csv,221,220,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,220,222,129,0,277.53
+order_items_raw.csv,222,221,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,221,161,185,1,260.0
+order_items_raw.csv,224,223,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,223,50,145,2,240.18
+order_items_raw.csv,225,224,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,224,36,96,1,389.2
+order_items_raw.csv,226,225,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,225,104,61,1,28.37
+order_items_raw.csv,227,226,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,226,4,180,1,299.18
+order_items_raw.csv,228,227,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,227,118,77,2,64.67
+order_items_raw.csv,229,228,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,228,110,23,2,312.48
+order_items_raw.csv,230,229,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,229,145,30,2,459.16
+order_items_raw.csv,231,230,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,230,44,94,3,373.99
+order_items_raw.csv,232,231,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,231,206,189,-2,341.86
+order_items_raw.csv,233,232,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,232,32,62,3,189.64
+order_items_raw.csv,234,233,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,233,92,185,5,247.05
+order_items_raw.csv,236,235,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,235,206,155,3,60.92
+order_items_raw.csv,237,236,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,236,66,91,2,100.61
+order_items_raw.csv,238,237,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,237,6,149,4,222.74
+order_items_raw.csv,239,238,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,238,125,29,1,41.51
+order_items_raw.csv,240,239,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,239,48,39,3,279.35
+order_items_raw.csv,241,239,order_id does not exist in trusted orders; quantity must be greater than zero; duplicate order_item_id '239',2026-08-06T09:37:35.194035Z,239,224,176,0,336.43
+order_items_raw.csv,242,241,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,241,151,65,2,271.52
+order_items_raw.csv,244,243,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,243,125,129,2,244.56
+order_items_raw.csv,245,244,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,244,205,10,1,41.93
+order_items_raw.csv,246,245,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,245,210,166,5,341.36
+order_items_raw.csv,247,246,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,246,216,122,4,483.93
+order_items_raw.csv,248,247,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,247,101,59,4,437.15
+order_items_raw.csv,249,248,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,248,133,20,5,183.66
+order_items_raw.csv,250,249,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,249,56,80,5,447.52
+order_items_raw.csv,251,250,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,250,160,12,5,109.63
+order_items_raw.csv,253,252,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,252,100,91,4,160.61
+order_items_raw.csv,254,253,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,253,149,124,3,170.22
+order_items_raw.csv,255,254,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,254,64,118,1,438.76
+order_items_raw.csv,256,255,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,255,12,162,5,77.19
+order_items_raw.csv,257,256,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,256,70,99,2,140.3
+order_items_raw.csv,258,257,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,257,68,92,5,286.64
+order_items_raw.csv,259,258,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,258,150,36,5,496.13
+order_items_raw.csv,260,259,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,259,144,25,1,436.83
+order_items_raw.csv,261,260,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,260,163,147,0,319.14
+order_items_raw.csv,262,261,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,261,203,73,3,397.56
+order_items_raw.csv,263,262,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,262,224,37,2,342.26
+order_items_raw.csv,264,263,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,263,196,88,3,371.07
+order_items_raw.csv,265,264,order_id does not exist in trusted orders; product_id does not exist in trusted products; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,264,219,163,-2,126.38
+order_items_raw.csv,267,266,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,266,172,83,3,442.41
+order_items_raw.csv,268,267,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,267,129,95,4,447.63
+order_items_raw.csv,269,268,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,268,90,39,2,72.13
+order_items_raw.csv,270,269,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,269,228,172,1,229.3
+order_items_raw.csv,271,270,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,270,102,146,4,387.31
+order_items_raw.csv,272,271,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,271,151,17,2,76.19
+order_items_raw.csv,273,272,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,272,65,187,3,288.09
+order_items_raw.csv,274,273,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,273,19,49,3,293.76
+order_items_raw.csv,275,274,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,274,150,46,1,155.6
+order_items_raw.csv,276,275,order_id does not exist in trusted orders; product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,275,120,92,3,485.42
+order_items_raw.csv,277,276,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,276,185,18,4,420.1
+order_items_raw.csv,278,277,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,277,45,71,3,449.38
+order_items_raw.csv,279,278,product_id does not exist in trusted products,2026-08-06T09:37:35.194035Z,278,6,43,5,315.09
+order_items_raw.csv,280,279,order_id does not exist in trusted orders,2026-08-06T09:37:35.194035Z,279,181,6,2,113.07
+order_items_raw.csv,281,280,order_id does not exist in trusted orders; quantity must be greater than zero,2026-08-06T09:37:35.194035Z,280,115,52,0,446.96
